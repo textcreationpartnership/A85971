@@ -1,0 +1,727 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edovardus Confessor redivivus. The piety and vertues of holy Edward the Confessor reviv'd in the sacred Majesty of King James the II. Being a relation of the admirable and unexpected finding of a sacred relique, (viz. the crucifix) of that pious prince; which was found in Westminster-Abby, (the place of his interrment) 622 years succeeding; and is since worn sometimes by his present Majesty. With a comment thereon. Previous to which relation, are recited many wonderful casual discoveries; all of them being presagious, or very effective.</title>
+            <author>Gibbon, John, 1629-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85971</idno>
+            <idno type="STC">Wing G649</idno>
+            <idno type="STC">Thomason E1963_13</idno>
+            <idno type="STC">ESTC R225399</idno>
+            <idno type="EEBO-CITATION">99896141</idno>
+            <idno type="PROQUEST">99896141</idno>
+            <idno type="VID">153960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2391:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edovardus Confessor redivivus. The piety and vertues of holy Edward the Confessor reviv'd in the sacred Majesty of King James the II. Being a relation of the admirable and unexpected finding of a sacred relique, (viz. the crucifix) of that pious prince; which was found in Westminster-Abby, (the place of his interrment) 622 years succeeding; and is since worn sometimes by his present Majesty. With a comment thereon. Previous to which relation, are recited many wonderful casual discoveries; all of them being presagious, or very effective.</title>
+                  <author>Gibbon, John, 1629-1718.</author>
+               </titleStmt>
+               <extent>[8], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. D[owning]. and are to be sold by Randal Taylor, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edward, --  King of England, ca. 1003-1066 --  Early works to 1800.</term>
+               <term>Relics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153960:1" rendition="simple:additions"/>
+            <pb facs="tcp:153960:1" rendition="simple:additions"/>
+            <p>EDOVARDUS <hi>Confeſſor Redivivus.</hi> THE PIETY and VERTUES Of HOLY <hi>Edward the Confeſſor,</hi> Reviv'd in the Sacred Majeſty of King James the II. BEING A RELATION of the Admirable and Unexpected finding of a <hi>Sacred Relique,</hi> (viz. the CRUCIFIX) of that Pious Prince; which was found in <hi>Weſtminster-Abby,</hi> (the place of his Interrment) 622 Years ſucceeding; and is ſince worn ſometimes by his preſent Majeſty. With a COMMENT thereon. Previous to which Relation, are recited many wonderful caſual Diſcoveries; All of them being Preſagious, or very Effective.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Cuncta aperit ſecreta Dies; abſcondita pandet</hi>
+                  </l>
+                  <l>
+                     <hi>Adveniens aetas, &amp; tempus operta recludet.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Long latent Day diſcovers hidden Things;</l>
+                  <l>And Time to come, to Light cloſe Matter brings.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. D.</hi> And are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1688.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153960:2"/>
+            <pb facs="tcp:153960:2"/>
+            <head>Ad Regiam Majeſtatem Jacobi Secundi, (Inclytiſſimi Regis Jacobi quarti Seri ſed veri Nepotis.)</head>
+            <lg>
+               <l>PArce tuum vatem temerum reputare <hi>JACOBE,</hi>
+               </l>
+               <l>Rex metuende, cui nunquàm bella omina deſunt;</l>
+               <l>Et quae ſemper eram palàm profarier auſus,</l>
+               <l>Foelicis Regis, foelicis &amp; omina plebis.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>DRead</hi> Prince, <hi>Thy Fecial Prophet don't diſdain,</hi>
+               </l>
+               <l>
+                  <hi>Animadverſor of Thy</hi> Omens <hi>plain;</hi>
+               </l>
+               <l>
+                  <hi>And who to Publiſh them has took the pain,</hi>
+               </l>
+               <l>
+                  <hi>As ſure Preſages of</hi> Thy <hi>Bleſſed Reign.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:153960:3"/>
+            <head>THE PREFACE, Without Reading which, the Diſcourſe and Deſign of the enſuing Treatiſe cannot well be underſtood.</head>
+            <p>PReſently after His <hi>Majeſty</hi>'s moſt happy <hi>Inaugu<g ref="char:EOLhyphen"/>ration,</hi> I heard of that unexpected <hi>Bene-ominous</hi> Accident, which is the Subject of this preſent Diſcourſe: Not One in Ten, but look'd upon it as a mat<g ref="char:EOLhyphen"/>ter meerly Fabulous and Feign'd: For my part, (having been abroad in the World) I have met with ſtrange Paſ<g ref="char:EOLhyphen"/>ſages, but read of many more; ſo, for my better ſatiſ<g ref="char:EOLhyphen"/>faction, I went to a Loving Friend of mine, Mr. <hi>J. G.</hi> (Famous for <hi>Aſtronomical</hi> Learning) living near the <hi>Abby,</hi> who aſſured me of the Truth thereof; and offered to carry me to the very Perſon who was the Diſcoverer thereof, and receiv'd a Royal Reward; which I refuſed, (for that would have looked as if I had diſtruſted my Friends Veracity.) Within two or three days after, my old Friend <hi>T. H. Eſq; Windſor-Herald</hi> (alſo a near In<g ref="char:EOLhyphen"/>babitant) re-aſſured me of the Truth thereof: <g ref="char:V">Ʋ</g>pon which, I Penned this enſuing Diſcourſe; giving it to one, to uſe at his Diſcretion, being a <hi>Printer,</hi> my Friend; and I thought it would have found no obſtacle in the Impreſſion: But thoſe that were Authoriz'd to Licenſe, obſtinately refuſed it, as ſavouring of down right Popery and Super<g ref="char:EOLhyphen"/>ſtition.
+<pb facs="tcp:153960:3"/>So I, having occaſion to retire into the Country, acquieſc'd, and let it lye, (ſubmitting to the Rigour, or Nicety of the Licenſers): But afterward, when I ſaw many notable, and very acceptable Occurrences fall under His <hi>Majeſty</hi>'s Auſpicious Government, (ſuch as are men<g ref="char:EOLhyphen"/>tion'd by <hi>Tertullus</hi> the Orator, <hi>Acts 24.2.</hi>) I incited my Friend to move afreſh: Theſe Occurrences are ſuch as,</p>
+            <p>His Proclamation, <hi>April 4.</hi> declaring, <hi>His Benign Indulging Well-meaning Tender Conſciences in mat<g ref="char:EOLhyphen"/>ter of Religion, and Forms and Circumſtances of Wor<g ref="char:EOLhyphen"/>ſhip:</hi> Certainly, the means to make People live in more <g ref="char:V">Ʋ</g>nity, and more free from Envy, that might arrive from ſome, to have more Priviledge, Grace and Favour than others. This cauſed a great rejoycing of all People gene<g ref="char:EOLhyphen"/>rally, as Mr. <hi>Gadbury</hi> well obſerves. <hi>Annot. Apr. 88.</hi>
+            </p>
+            <p>Then <hi>His paying the Arrears, due to His late</hi> Maje<g ref="char:EOLhyphen"/>ſty<hi>'s Servants; as far as His preſent</hi> Majeſty <hi>with con<g ref="char:EOLhyphen"/>venience could do; He having had no Supplies, but His own ordinary Revenues.</hi> The Payment of their Arrears is the more to be Commended, in that, after the <hi>Meaſure</hi> and <hi>Quantum</hi> was Conſider'd and Determin'd, the performance thereof was as ſpeedy as might be: <hi>Qui cito dat, bis dat.</hi>
+            </p>
+            <p>
+               <hi>His particular taking into conſideration the Debts due to the City</hi> Orphans <hi>and</hi> Widdows: Strangely have their Monies been ſquandred and embezled by the Step-Fathers of this Renowned City, once ſo Memorable for <hi>Piety</hi> and <hi>Juſtice. Gulielmus Stephanides,</hi> Writing of
+<pb facs="tcp:153960:4"/>it, <hi>ſub. H. 2.</hi> made it a <hi>City of Prayer.</hi> So <hi>Robert Fabian, ſub. H. 7.</hi> in his Prologue to his Second <hi>Chro<g ref="char:EOLhyphen"/>nological Volume:</hi> But truly, of late Years, it hath ſhew'd it ſelf <hi>Spelunca Latronum</hi> Matt. <hi>21.13.</hi>
+            </p>
+            <p>
+               <hi>His Intention to ſettle a</hi> Regiſtry <hi>of Sales of</hi> Eſtates <hi>and</hi> Chattels, <hi>Real.</hi> About the Year <hi>76</hi> and onward, the <hi>Houſe of Commons</hi> were upon this Matter; <hi>At Satanus impediit &amp; divertit in peiora; 1</hi> Theſ. <hi>2.18.</hi> For my part, I Wrote to ſeveral Noblemens Chaplains, de<g ref="char:EOLhyphen"/>ſiring them to perſwade their <hi>Lords</hi> to Advance it; the Right Reverend the <hi>Lords, Biſhops</hi> of <hi>Gloceſter</hi> and <hi>Rocheſter</hi> can Atteſt this to be True: The Honourable <hi>Knights,</hi> Sir <hi>Winſton Churchil,</hi> and Sir <hi>Joſeph Willi<g ref="char:EOLhyphen"/>amſon,</hi> (then Secretary of State) will acknowledge I put them upon it. — Certainly it would be a mighty ſatiſ<g ref="char:EOLhyphen"/>faction and Security to all ſorts of People, whom <hi>God</hi>'s Bleſſing, and their own Honeſt endeavour have made capa<g ref="char:EOLhyphen"/>ble of Purchaſe; and is the uſage of the <hi>Low-Coun<g ref="char:EOLhyphen"/>tries,</hi> introduc'd by <hi>Charles</hi> the <hi>V.</hi> whoſe Memory the <hi>Netherlanders</hi> greatly Reverence upon this very account. This is mention'd by Sir <hi>William Temple,</hi> P. <hi>200.</hi> of his excellent Diſcourſe of thoſe Parts.</p>
+            <p>
+               <hi>His reſtoring of an antient Order of</hi> Knight-hood, <hi>many Ages diſ-uſed,</hi> viz. <hi>The</hi> Thiſtle, <hi>ſo reviving the Honour of His Antient Kingdom of</hi> Scotland <hi>(the Nurſe of Brave Men)</hi> It was one of the Praiſes of that Good and Great Prince, <hi>Humphry</hi> Duke of <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> that Wrote himſelf Son, Brother, and <g ref="char:V">Ʋ</g>nkle of
+<pb facs="tcp:153960:4"/>
+               <hi>Kings,</hi> &amp;c. That He was <hi>Amator Honoris,</hi> a Lover of Honour. (See <hi>Weaver, 555.</hi>) But our <hi>Generous Soveraign</hi> is <hi>Lapſi Reſtaurator Honoris,</hi> a Reſtorer of it when fallen.</p>
+            <p>But laſtly, and above all, What is mentioned by Mr. <hi>John Gadbury,</hi> in his <hi>Ephemeris</hi> for the approaching Year <hi>88. viz.</hi> upon the <hi>23</hi> of <hi>Aug.</hi> His <hi>Majeſty</hi> began his Royal Progreſs for the Weſt, <hi>where he moſt Mer<g ref="char:EOLhyphen"/>cifully vouchſafed to heal many Languiſhing Men, Women, and Children, of the Evil:</hi> And this indeed was the main matter I preſumed to Preſage from this diſcourſed Diſcovery.</p>
+            <p>But to conclude my <hi>Preface;</hi> Why may not I preſume Vaticiniouſly from that paſſage I borrow from <hi>Harêus,</hi> (mention'd hereafter, <hi>Pag. 24</hi>) to add by the By,
+<q>
+                  <lg>
+                     <l>
+                        <hi>Poſt longos imbres obſcuraque nubila quid ſi</hi>
+                     </l>
+                     <l>
+                        <hi>Natio</hi> Jacobo <hi>gaudebit</hi> Hiberna <hi>ſereno?</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>After long Clouds and Storms, what if we ſee</l>
+                     <l>
+                        <hi>James</hi> the Serene, a Sun to <hi>Ireland</hi> be?</l>
+                  </lg>
+               </q>
+            </p>
+            <p>Let not my <hi>Reader</hi> Cenſure this comes out too too long, <hi>poſt factum,</hi> when as Mr. <hi>Payne Fiſher</hi>'s moſt excellent <hi>Latin Panegyrick</hi> in Heroick Verſe, upon his Majeſty's Inauguration; Nor Mr. <hi>Sandfords</hi> much and long ex<g ref="char:EOLhyphen"/>pected <hi>Proſal</hi> Deſcription thereof, have not yet ſeen the Light: The former, I ſuppoſe (and 'tis pity) has been hitherto ſuppreſt, <hi>Propter non poſſe pecuniae; Non propter Papiſmum,</hi> as was the Fate of Mine.</p>
+            <pb facs="tcp:153960:5"/>
+            <lg>
+               <l>
+                  <note n="(a)" place="bottom">DAy-Fatality, <hi>1679.</hi>
+                  </note>TEmporibus duris qui Scripſit <hi>Fata-Dierum.]</hi>
+               </l>
+               <l>
+                  <note n="(b)" place="bottom">
+                     <hi>Flagellum Mercurii Antiducalis;</hi> or, The Author of the <hi>Touch of the Times</hi> Charitably brought to the Whipping-Poſt, to prevent his coming to the Gallows, 1679.</note>
+                  <hi>Mercurium</hi> rigide correxit &amp; <hi>Antiducalem.]</hi>
+               </l>
+               <l>
+                  <note n="(c)" place="bottom">Swans Wellcome, <hi>1679.</hi>
+                  </note>Omina <hi>Cygnorum Duce</hi> qui redeunte notavit.]</l>
+               <l>
+                  <note n="(d)" place="bottom">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nio Diſſidentium,</hi> Heir Apparent, and Preſump<g ref="char:EOLhyphen"/>tive made one, 1680.</note>Haeredem <hi>Praeſumptivum</hi> uniit <hi>Apparenti</hi>
+               </l>
+               <l>Subdola quos hominum Gens diſunire ſtudebat.]</l>
+               <l>
+                  <note n="(e)" place="bottom">A <hi>Panegyrick</hi> to His <hi>Royal Highneſs,</hi> upon His Majeſty's late Declaration, concerning <hi>Monmouth</hi>'s Pretenſions, 1681.</note>Qui poſtquam <hi>Carolus Auguſtus Monumetenſem</hi>
+               </l>
+               <l>Claraſſet ſpurium, cantavit Carmine laeto.]</l>
+               <l>
+                  <note n="(f)" place="bottom">
+                     <hi>Prince Protecting Providences,</hi> upon occaſion of His <hi>Royal Highneſs</hi>'s Eſcape of Ship-wrack, 1682.</note>Edidit &amp; poſthac Protectos <hi>Numine Divos</hi>
+               </l>
+               <l>Selectos aliquos, tùm praecipueque <hi>Jacobum</hi>
+               </l>
+               <l>Syrtibus exemptum.]<note n="(g)" place="bottom">
+                     <hi>Chriſtian Valour Incou<g ref="char:EOLhyphen"/>raged;</hi> or, An Exhortation to the <hi>French</hi> King to Invade the <hi>Turks,</hi> 1684.</note> Monuitque deindè potentem</l>
+               <l>
+                  <hi>Gallorum</hi> Regem, ſaevos Invadere <hi>Turcas,</hi>
+               </l>
+               <l>
+                  <hi>Chriſticolis</hi> Stimulos.]—[Scripſit hunc ipſe Libellum,</l>
+               <l>Qui <hi>Confeſſoris Crucifixum</hi> tractat <hi>Edardi</hi>
+               </l>
+               <l>Inventum mirè, reddendum jure <hi>Iacobo.</hi>
+               </l>
+               <l>Non Poſſeſſori primo, virtute <hi>Secundo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He that Wrote Thoſe, This preſent Piece did Write,</l>
+               <l>Which of Saint <hi>Edward</hi>'s <hi>Crucifix</hi> doth Treat,</l>
+               <l>So ſtrangely found, now kept by <hi>JAMES</hi> the Great;</l>
+               <l>Who, to the Priſtine Owner, no whit is,</l>
+               <l>In Vertues all, Inferiour I wis.</l>
+            </lg>
+         </div>
+         <div type="notice">
+            <p>☞ In <hi>Pag.</hi> 27. I have a Paſſage relating to St. <hi>Brightwald;</hi> for the better apprehending the Application whereof, I muſt Inform my <hi>Reader,</hi> This Holy Man was a great Lover of his Country; and ſeeing St. <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the <hi>Confeſſor</hi> had no Heirs of his Body (and knowing the Turbu<g ref="char:EOLhyphen"/>lent Ambitious Temper of the Potent <hi>Godwinian</hi> Family) was greatly troubled; fore-ſeeing what Calamities might happly follow. It pleaſed <hi>God</hi> to quiet his Mind by that Viſion, which I mention <hi>Page</hi> aforeſaid.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:153960:5"/>
+            <head>Edovardus <hi>Confeſſor Redivivus:</hi> OR, Pious Edward the Confeſſor REVIV'D in His Preſent Majeſty.</head>
+            <p>
+               <hi>S<g ref="char:V">Ʋ</g>ETONI<g ref="char:V">Ʋ</g>S</hi> tells us, The Aſſaſſination of <hi>Julius Caeſar</hi> was predenounc'd by evident Pro<g ref="char:EOLhyphen"/>digies. Certain Men being employ'd to caſt down ſome Antient Monuments; in that of <hi>Capys,</hi> (Founder of <hi>Capua</hi>) they found a Bra<g ref="char:EOLhyphen"/>zen-Table, in which was written in <hi>Greek</hi> Let<g ref="char:EOLhyphen"/>ters this Sentence, <hi>Quandoque oſſa Capys,</hi> &amp;c. When e're the Bones of <hi>Capys</hi> ſhould be diſcovered, it ſhould come to paſs, That he that was ſprang from <hi>Julius</hi> ſhould be Slain by the hand of his own Relations; and that afterward <hi>Italy</hi> ſhould be Plagued with innumerable Slaughters. And leſt that any ſhould think the matter Fabulous and Commenti<g ref="char:EOLhyphen"/>tious, <hi>Cornelius Balbus,</hi> one of <hi>Caeſar</hi>'s Familiars, was the Author of this Report, (as ſays the ſaid Author <hi>Suetonius</hi>). That this came to paſs, all know that have read the <hi>Roman</hi> Hiſtories, and the Tragedy of <hi>Julius Caeſar.</hi>
+            </p>
+            <pb n="2" facs="tcp:153960:6"/>
+            <p>
+               <hi>Herodotus</hi> relates, That the <hi>Lacedemonians</hi> were always overcome by the <hi>Tegaeans:</hi> They asked advice of the <hi>Oracle,</hi> how, and by what means they might pleaſe the Gods, that they might overcome their Enemies the <hi>Tegaeans? Pythia</hi> anſwered, <hi>That</hi> Oreſtes <hi>Bones</hi> (who was Son of <hi>Agamemnon</hi>) <hi>were to be brought to</hi> Lacedemon. And they doubting, and being uncertain of the place where they were to be found: The <hi>Oracle</hi> anſwered in <hi>Greek</hi> to this effect, (as I have Pa<g ref="char:EOLhyphen"/>raphraſtically Tranſlated it;
+<q>
+                  <l>In a mean Cottage an <hi>Arcadian</hi> lives,</l>
+                  <l>Where force of Bellows, Art Aſſiſtance gives:</l>
+                  <l>There Hammer on the Anvil ſoundly plies,</l>
+                  <l>And Son of <hi>Agamemnon</hi> Buried lies.</l>
+                  <l>Purchaſe that Cottage; for within its Ground,</l>
+                  <l>The Fatal Bones, by digging, may be found.</l>
+               </q>
+            </p>
+            <p>When no Man could underſtand the <hi>Oracle,</hi> one <hi>Liches</hi> came to <hi>Tigaea,</hi> and ſitting in a Brazier's Shop, wondred at his Work; to whom the Brazier ſaid, <hi>Wonder not at this; How would'ſt thou wonder, if thou ſhould'ſt ſee a Sepulchre, (which I diſcovered by digging a Well) where were Bones ſeven Cubits long, which I have again Religiouſly Buried.</hi> Then <hi>Lyches</hi> inſtantly call'd to mind the <hi>Oracle,</hi> and rumi<g ref="char:EOLhyphen"/>nating much within himſelf, communicated the matter to the <hi>Lacedemonians;</hi> and ſeigning an eſcape, returned to the <hi>Tegaeans,</hi> bought the Bones of the Brazier, and carried them to <hi>Lacedemon:</hi> And then it came to paſs, that the <hi>Lacedemonians</hi> overcame their Enemies.</p>
+            <p>There was a City called <hi>Libethra,</hi> (upon Mount <hi>Olympus</hi>) near which was <hi>Orpheus</hi>'s Tomb. Now the <hi>Oracle</hi> had declared to the <hi>Libethrans, Their City ſhould be deſtroyed by a</hi> Swine, <hi>when the</hi> Sun <hi>ſhould firſt ſee</hi> Orpheus <hi>Bones.</hi> They regarded
+<pb n="3" facs="tcp:153960:6"/>the <hi>Oracle</hi> the leſs, becauſe they believed not any ſuch Beaſt ſhould have ſo much ſtrength as to deſtroy ſuch a City; for, — <hi>Naſcitur â mediis Effectus quilibet aptis.</hi>
+            </p>
+            <q>
+               <l>By means and ways of fit Proportion,</l>
+               <l>Things are brought to Execution.</l>
+            </q>
+            <p>But when it pleaſed the <hi>Gods</hi> theſe things ſhould come to paſs, a certain Shepherd at Noon-tide, being weary, laid himſelf down by <hi>Orpheus</hi>'s Tomb, and falling aſleep, began to chant <hi>Orpheus</hi>'s Verſes, in a ſweet and delectable Tone: Some Shepherds and Plow-men, that were hard by, were much taken, and left their Station to hear the Melody of the Sleeping Shepherd; coming near, and juſtling one a<g ref="char:EOLhyphen"/>nother, they threw down the Pillar; whereby the Urn was broken, and <hi>Orpheus</hi>'s Bones lay open to the Sun: The Night following fell much Rain, and the River over-flowing its Banks, caſt down the Walls of <hi>Libethra,</hi> over-turn'd the Holy-Temple and Buildings, and deſtroy'd the Citizens. (My Author has this Story out of <hi>Pauſanias</hi> his <hi>Baeotica</hi>). And I muſt not omit the Equivocal meaning of the <hi>Oracle,</hi> the Stream being called by the name of a <hi>Swine.</hi>
+            </p>
+            <p>
+               <hi>Xerxes,</hi> the Son of <hi>Darius,</hi> having digg'd up an old Mo<g ref="char:EOLhyphen"/>nument of <hi>Belus,</hi> found an Urn of Glaſs, in which a Corps lay in Oyl; but the Urn was not full. Now, near unto this was a little Column, on which was written, <hi>That it ſhould go ill with him that opened the Sepulchre, and did not fill the <g ref="char:V">Ʋ</g>rn:</hi> Which, when <hi>Xerxes</hi> had read, he was taken with much Dread and Horror, and commands Oyl to be poured in; which being performed, it was never the fuller, though often reiterated. The Monument being cloſed, he departed with much Grief; and ſoon after was miſerably Aſſaſſinated. <hi>Aelianus ex Herodoto, lib.</hi> 3.</p>
+            <pb n="4" facs="tcp:153960:7"/>
+            <p>There was a Town of the <hi>Xanthians,</hi> which had a Bridge laid over the ſmall River <hi>Lycus;</hi> in which were ſaid to have been Brazen Tables, whereon Letters were Ingra<g ref="char:EOLhyphen"/>ven, ſhewing, <hi>That the Empire of the</hi> Perſians <hi>was ſome<g ref="char:EOLhyphen"/>time to be overthrown by the</hi> Grecians. Now, a little be<g ref="char:EOLhyphen"/>fore <hi>Alexander</hi> the Great had Fought at <hi>Graviſum,</hi> this Bridge was ſhaken down, and the aforeſaid Tables were fallen into the River. <hi>Alexander</hi> was much moved at the Report of theſe Tables; when as for ſome time he had ſtood doubtful, which way to ſteer the Courſe of his Victories, turned to the Right Hand, and ſubdued, with wonderful ſpeed, all the Sea-Coaſt, from <hi>Lydia</hi> unto <hi>Phoenicia. Plu<g ref="char:EOLhyphen"/>tarchs</hi>'s <hi>Alexand.</hi>
+            </p>
+            <p>
+               <hi>Procopius</hi> the Tyrant, being Slain by <hi>Valens</hi> the Empe<g ref="char:EOLhyphen"/>rour, the Walls of <hi>Calcedon</hi> (becauſe the Citizens thereof had favoured <hi>Procopius</hi>'s Party) were thrown down to the Ground. In one of whoſe Stones was an <hi>Oracle</hi> found, Engraven; averring, <hi>That the ſaid Walls ſhould be converted to the <g ref="char:V">Ʋ</g>ſe of the Baths in</hi> Conſtantinople. <hi>Calcedon</hi> lay over-againſt <hi>Conſtantinople;</hi> Now, while the Walls were throwing down, the Citizens of <hi>Conſtantinople, viz.</hi> the <hi>Bithi<g ref="char:EOLhyphen"/>nians, Nicomedians,</hi> and <hi>Nicaeans,</hi> made humble Suit to the contrary; but the Emperour <hi>Valens</hi> took the Suit in ill part, and commanded the Stones to be carried to the uſe aforeſaid, <hi>viz.</hi> to build the Baths called, <hi>Conſtantiana,</hi> [So great is the force of Deſtiny and Fate]. Read <hi>Cuſpinian</hi> in the Life of <hi>Valens,</hi> and the Eccleſiaſtical Hiſtory of <hi>Socrates Scholaſticus,</hi> (<hi>lib.</hi> 4. <hi>ch.</hi> 8.) Tranſlated out of <hi>Greek</hi> by <hi>Meredith Han<g ref="char:EOLhyphen"/>mer,</hi> D. D. who recites the Propheſie in <hi>Engliſh</hi> Verſe of fourteen Feet, not well reliſhing to our Poetical Palate at this day; or as <hi>Camden</hi> phraſes it, <hi>Apolline minus plenas.</hi>
+            </p>
+            <pb n="5" facs="tcp:153960:7"/>
+            <p>In the ſixth Year of <hi>Juſtine</hi> the Great, <hi>Edeſſa,</hi> that No<g ref="char:EOLhyphen"/>ble and Bleſſed City of the <hi>Oſroenians,</hi> was over flown with the Streams of the River <hi>Scirtus,</hi> that glided by i; inſo<g ref="char:EOLhyphen"/>much as many Houſes were carried away with the violence thereof, and multitudes of Men were drowned with the Water: [See <hi>Evagrius</hi>'s Eccleſiaſtical Hiſtory, <hi>lib.</hi> 4. <hi>chap.</hi> 8.] And <hi>Cedrenus</hi> reports, That at the ſame time, in the Bank of the River, a Table of Stone was found, whereon was Written in <hi>Egyptian</hi> Letters to this effect;
+<q>
+                  <l>
+                     <hi>Scirtus</hi> the Stream ſhall Leap and Dance,</l>
+                  <l>And cauſe <hi>Edeſſas</hi> great miſchance.</l>
+               </q>
+            </p>
+            <p>If my Reader be Inquiſitive, why <hi>Evagrius</hi> calls <hi>Edeſſa</hi> that <hi>Bleſſed City,</hi> let him know, 'twas becauſe King <hi>Agabarus</hi> (that ſo much deſired to ſee our Saviour) lived there: Of which matter, ſee <hi>Euſebius, lib.</hi> 1. <hi>chap.</hi> 14. who diſcourſes at large of <hi>Agabarus</hi> his Letter to our Saviour, and the Anſwer thereunto; the ſending of <hi>Thadeus</hi> to Him; who Cured his Diſeaſe, and Converted him, and his People.</p>
+            <p>
+               <hi>Rodericus Toletanus</hi> writes, That before the Coming of the <hi>Saracens</hi> into <hi>Spain,</hi> King <hi>Roderick,</hi> upon hope of ſome Treaſure, did open a part of the Palace, long being forbid<g ref="char:EOLhyphen"/>den to be touched; but found nothing but Pictures, which reſembled the <hi>Moors,</hi> with a Prophecy, <hi>That whenſoever that part of the Palace was opened, the People there reſembled ſhould overcome</hi> Spain, and ſo it happened. See <hi>Heylen</hi> after his Catalogue of the <hi>Gothiſh</hi> Kings of <hi>Spain.</hi>
+            </p>
+            <p>In the Time of <hi>Ferdinand</hi> the Firſt, King of <hi>Arragon,</hi> the City of <hi>Naples</hi> was in a moſt Flouriſhing condition, and the Kingdom free from all Calamity. Now, 'tis ma<g ref="char:EOLhyphen"/>nifeſt,
+<pb n="6" facs="tcp:153960:8"/>That one <hi>Cataldus,</hi> about 1000 Years before that Time, had been Biſhop at <hi>Tarentinum;</hi> the Citizens whereof did Worſhip him as their Patron: In the mid'ſt of the Night he again and again appeared to a Miniſter, (who had lately taken the Order of Prieſt-hood, having been Educated under the Vow of Chaſtity) charging him, <hi>That he ſhould, without delay, take out of a certain place, a little Book, which he in his Life-time had Wrote, and privately hid, (contain<g ref="char:EOLhyphen"/>ing ſome Divine Writings) and bring it to the King.</hi> The Prieſt gave little Credit to the Dream, although he ſaw <hi>Cataldus</hi> in his Sleep, very often, and always of the ſame ſhape and form. After that, he appeared unto him (being all alone in the Temple, early in a Morning) Apparell'd in ſuch Biſhops Weeds as he uſed in his Life-time, and Adorned with a Mitre; adviſing him, as he deſired to avoid great Puniſhment, <hi>That the next day, without further delay, he ſhould digg for the Book which he had Written and Hidden,</hi> (as he had formerly ſhewn him by Viſions) <hi>and bring it to the King.</hi> The Prieſt and People went the next day to the place wherein, for many Years, this little Book had been hidden, and found it Bound with a Leaden Cover, and Claſped; wherein it appeared, that the Deſtruction of the Kingdom, Miſerable Calamities, and Moſt Sad Times were at hand; whereof the King was warned.</p>
+            <p>We have found, by Experience, (ſays my Author) That this Prophecy was fully Executed, and ſhew'd it ſelf to be ſo Divine, that not long after <hi>Ferdinand</hi> himſelf, either by the juſtly incenſed Wrath of <hi>God</hi> Almighty, or other inſcrutable Cauſes of his Divine Will, could not avoid what he was ſo fully admoniſh'd of; but, in the very firſt appearance of War, departed this Life; and <hi>Charles</hi> the Eighth of <hi>France,</hi> with a ſtrong Hand, Invaded the King<g ref="char:EOLhyphen"/>dom. And <hi>Alphonſus,</hi> the Heir of <hi>Ferdinand,</hi> having but
+<pb n="7" facs="tcp:153960:8"/>newly entred the Kingdoms Government, was thereof de<g ref="char:EOLhyphen"/>prived, baſely running away, and dying in Flight, as a Baniſh'd Man. Then the Second Son of <hi>Ferdinand,</hi> (the hopefulneſs of whoſe Youth had indeared him to all Men) to whom the Kingdom fell, was intangled with a miſerable and fatal War, and died in the Flower of his Age: and afterward, the <hi>French</hi> and <hi>Spaniards</hi> dividing the Kingdom, made Havock of all, with deplorable Devaſtations. <hi>Alex<g ref="char:EOLhyphen"/>ander ab Alexandro, cap.</hi> 15. The Diſcourſe of Policy and Religion, by Mr. <hi>Fitz-Herbert,</hi> mentions this Matter.</p>
+            <p>We read in the <hi>Perſian</hi> Hiſtory of one <hi>Emande Daule,</hi> a great <hi>Perſian</hi> Prince, that reſting in the Houſe of <hi>Tacut,</hi> a Prince whom he had Vanquiſhed, he began to be careful for the Payment of his Souldiers, being without Money, and ſeeing their Inſolence to be great, and that they would Mu<g ref="char:EOLhyphen"/>tiny if they were delay'd: Being very Penſive, he laid him down upon a Bed, ſtudying what courſe to take; where, lifting up his Eyes, he eſpyed an ugly Snake at an hole, which did often put forth her Head, and draw it up again: <hi>Daule</hi> being amazed thereat, commanded they ſhould pre<g ref="char:EOLhyphen"/>ſently break up the top of the Houſe, and Kill the Snake; which was done; and in doing of it, they diſcovered a great Treaſure which <hi>Yacut</hi> had hidden there, and which was ſufficient to Pay the Souldiers. Soon after, there happened another Accident to <hi>Daule,</hi> which was both Pleaſant and Profitable: Having an intent to make ſome Apparrel, he caus'd a Taylor to be brought unto him; who being before him, inſtead of a Meaſure, he call'd for a Cudgel; the Tay<g ref="char:EOLhyphen"/>lor (who had ſerved <hi>Yacut</hi>) fearing to be Baſtinado'd, be<g ref="char:EOLhyphen"/>ſought him to Pardon him, and without any Exhortation of the Cudgel, would confeſs the Truth; which was, <hi>That he had ſeventeen Coffers in his Houſe, which</hi> Yacut <hi>had com<g ref="char:EOLhyphen"/>mitted
+<pb n="8" facs="tcp:153960:9"/>to his Cuſtody: Daule</hi> was joyful of this Diſcovery; and having ſent for the Coffers, they were found full of Cloth of Gold, and all ſorts of Silk of great value; where<g ref="char:EOLhyphen"/>of the Taylor had his ſhare.</p>
+            <p>
+               <hi>Jornandes</hi> writes, That <hi>Attila</hi> relied much upon the Sword of <hi>Mars,</hi> kept along time among the Kings of the <hi>Scythians,</hi> and diſcovered at firſt, upon this occaſion: A cer<g ref="char:EOLhyphen"/>tain Neat-herd ſeeing one of his Beaſts halting, and not knowing how it came, followed the Tract of the Blood; at the end whereof, he finds a Sword, upon which the Beaſt had trod in Feeding: This Sword he takes out of the Ground, and brings it to <hi>Attila;</hi> who, joyful of ſuch a Preſent, (for which he rewarded the Neat-herd) being a Man of a lofty Courage, conceived in his Mind, the Monarchy of the World was deſigned for him; and that <hi>Mars</hi>'s Sword would bear him out, to make War with every one. <hi>Ca<g ref="char:EOLhyphen"/>merarius, lib.</hi> 4.</p>
+            <p>I will not ſay any thing of <hi>Alis</hi>'s Cimitar, ſo renowned among the <hi>Turks;</hi> but come to <hi>Joan</hi> of <hi>Arc,</hi> and her Sword, ſo ſtrangely diſcovered; I will Epitomize it out of <hi>Belle<g ref="char:EOLhyphen"/>foreſt:</hi> She was Born of very mean Parentage, in the Country of <hi>Barrois:</hi> It pleaſed <hi>God,</hi> by means of her, to deliver, not only the City of <hi>Orleance,</hi> but the Kingdom of <hi>France.</hi> This Maid, aged Eighteen, was Sincere and Modeſt; and, fearing <hi>God,</hi> had many Revelations, by which ſhe was exhorted to an Enterpriſe, differing from, and infi<g ref="char:EOLhyphen"/>nitely above the mean Vacation ſhe follow'd, (which was to look after her Father's Cattle) <hi>viz.</hi> to go to the <hi>King,</hi> and Inform him, <hi>God</hi> had ordain'd her for the Party that ſhould deliver the Kingdom, raiſe the Siege of <hi>Orleance,</hi> and cauſe his Majeſty to be Sacred at <hi>Rheims,</hi> in deſpite of the
+<pb n="9" facs="tcp:153960:9"/>
+               <hi>Engliſh</hi> Force, then in a moſt Victorious Condition. With this Aſſurance, ſhe Addreſſed her ſelf to <hi>Robert de Bandrie<g ref="char:EOLhyphen"/>court,</hi> Governour of <hi>Vancoleur,</hi> to the end he ſhould Con<g ref="char:EOLhyphen"/>duct her (accoutred as a Man) to the King; to whom ſhe was ordered to ſay, <hi>That ſhe was ſent by</hi> God, <hi>to Succour Him, and Recover His Kingdom; and Reveal things to Him ſo Secret, that thereby he ſhould know,</hi> God, <hi>and no other, was Chief of the Enterpriſe ſhe undertook.</hi> The Governour, at firſt, was Aſtoniſht, and thought ſhe was Extravagated by ſome Melanchohy Humor: But ſeeing her ſo diſcreet in her Propoſals, adviſed in her Anſwers, and reſolute in what ſhe ſaid, began to have her in Eſteem: But was more ſatiſ<g ref="char:EOLhyphen"/>fied the Work of <hi>God</hi> was in it, when as the ſame day, the <hi>French</hi> were Deſeared at <hi>Rouveroy;</hi> ſhe averr'd, The King had even then received a great loſs, and 'twas time to haſten the buſineſs; and that if ſhe were not Conducted to him, the Kingdom would yet ſuffer more.</p>
+            <p>The Iſſue of the matter making him ſee the Maid was in the right, he failed no longer to put her in fit Equipage, and to diſpatch her with two <hi>Champaign</hi> Gentlemen: But they knowing the difficulty, would not (at firſt) enter<g ref="char:EOLhyphen"/>priſe the Thing; but <hi>Joan</hi> of <hi>Arc</hi> ſo aſſured them, that they condeſcended to her Requeſt, and Accompanied her.</p>
+            <p>She Arrived at <hi>Chinon</hi> (where the King then was), in <hi>March</hi> 1429. and at the very time when the Council had Decreed, (Things being as they were) it were beſt for the King to retire into <hi>Dauphine,</hi> and preſerve (if <hi>Orleance</hi> were taken) <hi>Languedock, Lionnois, Auvergne,</hi> and the ſaid <hi>Dauphine,</hi> till it ſhould pleaſe <hi>God</hi> to have Compaſſion of Him, and his People. In fine, She was brought to the King, whom ſhe knew, tho' he retired himſelf behind o<g ref="char:EOLhyphen"/>thers, to conceal himſelf: To whom ſhe propoſed her bu<g ref="char:EOLhyphen"/>ſineſs, as aforeſaid. Her Promiſes were ſo great, that the
+<pb n="10" facs="tcp:153960:10"/>King remitted her to ſome <hi>Lords</hi> of the Council, and <hi>Doctors</hi> in Divinity, to Examine her; to whom ſhe Propo<g ref="char:EOLhyphen"/>ſed her buſineſs, as aforeſaid ſhe had done to His Majeſty; and they found nothing in her worthy of Cenſure, although ſhe diſcourſed of matters of Faith very high (which ſhe did with great Integrity and Eloquence).</p>
+            <p>Here <hi>Belleforeſt</hi> makes a Pauſe, and ſays, <hi>The greateſt Enemies of</hi> France <hi>have brought more Honour to the Memory of this</hi> Virgin, <hi>than many</hi> French <hi>of our time, who have da<g ref="char:EOLhyphen"/>red to ſoil her Irreprehenſible Life with their foul Beſpat<g ref="char:EOLhyphen"/>terings.</hi> And he quotes <hi>Meyer,</hi> a <hi>Flemiſh</hi> Annaliſt, (<hi>No Equitable Judge,</hi> ſays he, <hi>to the</hi> French <hi>Nation, but an E<g ref="char:EOLhyphen"/>nemy to the Blood of their Kings</hi>); who affirms, <hi>What ever ſhe Propoſed in Words, ſhe made good in Deeds.</hi> Quis non videt, <hi>&amp;c.</hi> (ſays he;) <hi>Who ſees not this to be the Work of</hi> God? <hi>Who can doubt, theſe things were not effected by the Immenſe Clemency of</hi> God?</p>
+            <p>Although the King, and His Council, were aſſured of the Vertue of <hi>Joan,</hi> and were of reſolv'd Opinion, ſhe was in<g ref="char:EOLhyphen"/>ſpir'd by <hi>God;</hi> becauſe ſhe had told the King things which he had never Diſcourſed to any Body: Yet, not to go over lightly to work with a thing of ſuch Importance, ſhe was ſent to <hi>Poitiers;</hi> where Reſided then the Grand <hi>Parliament</hi> of <hi>France,</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> (which before was wont to be the Ornament of <hi>Paris</hi>) to the end the <hi>Parliament</hi> and the <hi>Divines</hi> might enquire further of the Propoſals of the Maid, and make Judgment accordingly; who concluded, <hi>That the King ought to Believe and Confide in her, and to furniſh her with Monies for her Equipage, to Advance towards the Army.</hi> Being returned to the King, he gave her Arms and Horſes; and ſhe requeſted him to ſend and ſearch for a <hi>Sword,</hi> being in the Church of Saint <hi>Katharines</hi> of <hi>Fierbois,</hi> in the Blade of which, near to the Traverſe Bar, or Guard,
+<pb n="11" facs="tcp:153960:10"/>were five Croſſes impreſſed; and that no other Sword but This, could ſerve her turn.</p>
+            <p>What the Conduct of this Virgin, and her Select Sword (by her ſo wonderfully diſcovered) in a ſhort time effected, I refer to the <hi>Engliſh</hi> and <hi>French</hi> Chronologers.</p>
+            <p>Theſe two Inſtances of Swords anſwer to the latter part of my Title, <hi>viz.</hi> Effective Conſequence.</p>
+            <p>In the <hi>Preface</hi> to my <hi>Introductio ad Latinam Blazoniam.</hi> I tell my Readers, <hi>Arms are the Rewards of Meritorious Deeds, whether Military or Civil, which Deeds ſoon Die, (how Nobly ſoever performed:) But the</hi> Rewards <hi>are laſting, out-living the</hi> Actors; <hi>and in their Honorary</hi> Symbols, <hi>con<g ref="char:EOLhyphen"/>tinually from Age to Age, accompanying and dignifying their Deſcendents.</hi> Thus <hi>Charles</hi> the VII. that grateful King of <hi>France,</hi> rewarded this ſucceſsful <hi>Virgin,</hi> and her Family, with theſe Arms following:</p>
+            <p>
+               <hi>D'Azure à l'Eſpee, &amp;c.</hi> (B. <hi>a Sword in pale.</hi> Ar. <hi>its Guard,</hi> Or, <hi>Surmounted by a Crown, and Accoſted by two Fleurs lys of the ſame.</hi> Her Succeſſors bear the Name of <hi>Du Lys.</hi> And I ſhall have occaſion to ſpeak of the Alluſion of theſe Enſigns, in a Collection I intend ſuddainly to make Pub<g ref="char:EOLhyphen"/>lick, of many of the Arms of the <hi>Europian</hi> Nations; allu<g ref="char:EOLhyphen"/>ding either to the Name it ſelf, or other Circumſtances of the Bearer.</p>
+            <p>
+               <hi>Sozomenus, Lib.</hi> 6. writes, That when <hi>Julian</hi> the Apo<g ref="char:EOLhyphen"/>ſtate Sacrificed to the <hi>Gods</hi> of the <hi>Gentiles,</hi> a Crown'd Croſs was found in the Entralls of the Slain Beaſts; upon which, the Miniſters of the Offering, aſtoniſh'd, cryed out, <hi>Illud eſſe Signum Victoriae &amp; Aeternitatis Chriſtianae Religionis:</hi> It was a ſign of the Prevalency and Eternity of the Chri<g ref="char:EOLhyphen"/>ſtian Religion.</p>
+            <pb n="12" facs="tcp:153960:11"/>
+            <p>
+               <hi>Dagobert,</hi> the Son of <hi>Clotherius,</hi> King of <hi>France,</hi> being Young, pulled from <hi>Sadregefillus</hi> (a deſerving and worthy Noble-man, whom his Father had deſigned Governour of <hi>Aquitain</hi>) his Honourable Robe belonging to his Place and Quality, and grievouſly Beat him; out of a Fond Conceit he had not that Reſpect for him, which the Son of a King might expect: Upon this miſ-uſage he went to <hi>Clotherius,</hi> complaining of the ſame, and ſhewing the Marks of the Blows he received; the King Incenſed, commanded his Son ſhould be taken, and brought to him: The Prince fearing the Anger of his Father, flies from on Secret place to ano<g ref="char:EOLhyphen"/>ther; at laſt, the King having but one only Son, and be<g ref="char:EOLhyphen"/>thinking himſelf he had done ſufficient Penance for his Offence, by long Fear and Flight, reſolves to Forgive him, and be Reconciled. Thoſe whom the King ſent to fetch him from the Cave, where he had Abſconded himſelf, were taken with ſuch Fear and Horror, that the Hairs of their heads ſtood upright, and their whole Bodies trembled, and had no Power to go into the Cave; which was a thing much to be wondered at: But in this place lay Buried the Bodies of the Martyrs <hi>Dioniſius, Ruſticus,</hi> and <hi>Eleutherius;</hi> which, until that time, was not known to any Man; but they ap<g ref="char:EOLhyphen"/>pearing to <hi>Dagobert</hi> in his Sleep, adviſed him to Build a Church there, which he afterward performed. But I ſhould have told you, The Father ſuppoſing the Meſſengers unwilling to diſtaſte the Son, had (to gratifie him) coun<g ref="char:EOLhyphen"/>terfeited this Fear, was ſain publickly to pronounce his Pardon; and then they could enter, and fetch him out.</p>
+            <p>
+               <hi>Genoueva,</hi> a Virgin of <hi>Paris,</hi> did moſt Reverently frequent the Village <hi>Catula,</hi> where Holy <hi>Dioniſius</hi> Died; to whom ſhe had Dedicated a Cathedral Church: She went to cer<g ref="char:EOLhyphen"/>tain Prieſts with Collected Monies; but they, fearing further
+<pb n="13" facs="tcp:153960:11"/>Supplies, and having preſent want of ſome, made their ex<g ref="char:EOLhyphen"/>cuſe: On the contrary, ſhe (Divinely Inſpir'd) ſaid, <hi>I be<g ref="char:EOLhyphen"/>ſeech you go to the Bridge of the City, and what-ever you hear declare it to me.</hi> They going forth, while they ſtood at<g ref="char:EOLhyphen"/>tentively in the Market-place, expecting what to hear, two Swine-herds coming towards them, talked together; ſays One, <hi>While I ſought a ſtraid Hogg, I found a Furnace of Lime: I alſo,</hi> ſays the Other, <hi>found another in the Wood:</hi> The amazed Prieſts relate to the Virgin what they heard; ſhe Weeps for Joy; and notice being given to the Citizens, Collections were made, and a Magnificent Temple Built, and Dedicated to <hi>Dioniſius. Bonfinius,</hi> Lib. 5.</p>
+            <p>There are many over-weaning and credulous Perſons of the <hi>Reformed Religion,</hi> believe the <hi>Pope</hi> grants Pardons to ratifie Murders, and perpetrate Crimes. Now, it pleaſed <hi>God,</hi> in the ſecret diſpoſition of his hidden Judgment, to Reveal the contrary, in this wonderful and unexpected Manner. About the Year 1608. 6 <hi>Jacobi</hi> l. as the Sexton was digging a Grave in the Cathedral Church of St. <hi>Paul, London,</hi> to Interr the Corps of Doctor <hi>Stanhop,</hi> he chanced to light upon the Coffin of one Sir <hi>Gerard Braybroke,</hi> Knight, Buried there Two hundred Years before; where finding the Cords whole, the Flowers freſh, he eſpied a Charter of <hi>Pardon</hi> or <hi>Indulgence</hi> not Conſumed, not Eaten, not Defaced in ſo long time: You may read this <hi>Charter</hi> in <hi>Latin,</hi> in the <hi>Hiſtoria Eccleſiae Paulinae,</hi> Written by my moſt Loving Friend, and fellow Officer, Sir <hi>William Dugdale,</hi> late <hi>Gar<g ref="char:EOLhyphen"/>ter King at Arms.</hi> I will Recite it here, Tranſlated into <hi>Engliſh,</hi> Verbatim.</p>
+            <pb n="14" facs="tcp:153960:12"/>
+            <p>BOniface, <hi>Biſhop, Servant of the Servants of</hi> God: <hi>To his beloved Son, the Noble Gentleman,</hi> Gerard Braybroke <hi>the younger, Knight; and to his beloved Daughter in Chriſt, the Noble Lady his Wife,</hi> Elizabeth, <hi>of the Dioceſs of</hi> Lin<g ref="char:EOLhyphen"/>coln, <hi>Salvation and Apoſtolical Benediction. It proceedeth from your Affectionate Devotion, with which you Reverence <g ref="char:V">Ʋ</g>s, and the Church of</hi> Rome, <hi>that We admit Your Petition to a favourable Hearing, eſpecially that which concerns the Salva<g ref="char:EOLhyphen"/>tion of Your Souls. For this cauſe, We being moved to yield to Your Supplications, By the Tenor of theſe Preſents, do grant this Indulgence to Your Devotion: That ſuch a Ghoſtly Father, as either of You ſhall chooſe, ſhall have Power, by Apoſtolical Authority, to grant to You (perſiſting in the Sincerity of Faith, in the <g ref="char:V">Ʋ</g>nity of the Holy Church of</hi> Rome, <hi>and in Obe<g ref="char:EOLhyphen"/>dience and Devotion towards <g ref="char:V">Ʋ</g>s, or Our Succeſſors, Popes of</hi> Rome, <hi>Canonically entring into that Sea</hi>) <hi>full Remiſſion (only once at the point of Death) of all Your Sins, whereof you ſhall be Contrite and Confeſſed; in ſuch manner, never<g ref="char:EOLhyphen"/>theleſs, that in theſe Caſes, where Satisfaction is to be made to any other, the ſame Confeſſor ſhall enjoyn You to do it by Your ſelves, if You Survive, or by Your Heirs, if You ſhould then Die, which You or They ought to perform, as aforeſaid: And leſt</hi> (<hi>which</hi> God <hi>forbid</hi>) <hi>You ſhould by this Favour, become more prone to commit unlawful Things hereafter, We declare, That if, upon confidence of this Remiſſion or Indulgence, You ſhall commit any ſuch Sins, That this preſent Pardon ſhall not be any help to You, concerning Them. Furthermore, Let it be Lawful for no Man to Infringe this Writing or Grant of Ours, or with whatſoever boldneſs to Contradict it: And if any ſhall preſume to attempt any ſuch thing, let him know, That he ſhall Incurr the Indignation of Almighty</hi> God, <hi>and of his Bleſſed Apoſtles Saint</hi> Peter, <hi>and Saint</hi> Paul. <hi>Given at</hi> Rome, <hi>at St.</hi> Peters, <hi>under the</hi> Fiſhers Ring, 5<hi rend="sup">o</hi>. Junii, <hi>in the Second Year of Our Papacy.</hi>
+            </p>
+            <pb n="15" facs="tcp:153960:12"/>
+            <p>
+               <hi>Note,</hi> This was <hi>Boniface</hi> the IX. and the Year was 1400. the Firſt of <hi>Henry</hi> the IV.</p>
+            <p>Now, Let all that are Opiniated as aforeſaid, read, and well conſider the Conditions of this <hi>Brieve. Firſt,</hi> It is neceſſary to <hi>Perſiſt in the Sincerity</hi> of the <hi>Faith. Secondly,</hi> To be <hi>Sorrowful and Contrite, and to confeſs Our Sins. Thirdly,</hi> To make <hi>Satisfaction</hi> or <hi>Reſtitution,</hi> if <hi>any be needful. Fourthly,</hi> Not to <hi>Preſume hereby</hi> to <hi>commit unlawful Things.</hi> I pray, who can be Sorrowful, or truly Confeſs, or duly intend to Satisfie, that fully intends to commit Sins? Who can be im<g ref="char:EOLhyphen"/>boldned to fall into Sin, in hope of a Plenary Indulgence, when this very Hope and Preſumption is a main Bar againſt gaining the ſame. <hi>Gregorius Turonenſis,</hi> (<hi>lib.</hi> 1. <hi>chap.</hi> 14.) tells us, When the Article of our Reſurrection was moſt eagerly Impugned by the <hi>Saducean</hi> Hereſie, in the days of <hi>Theodoſius</hi> the Emperour, it pleaſed <hi>God</hi> to reveal and awake the Martyrs St. <hi>Maximinian, Malchus, Martinian,</hi> and the reſt, after they had Slept 372 Years: For 'twas concluded, <hi>If</hi> God <hi>could raiſe from Sleep after ſo many Years, He could do it after any Number:</hi> and ſo conſequently, having at firſt Created all Things out of Nothing, could again raiſe them out of their own Aſhes.</p>
+            <p>
+               <hi>Baronius</hi> in his Annals (<hi>Anno Chriſti</hi> 357.) relates, That when ſo many Doubts were made about the Martyr<g ref="char:EOLhyphen"/>dom of St. <hi>Foelix,</hi> Pope and Martyr, that his Name was in danger to be blotted out of the Calendar; it pleaſed <hi>God</hi> to Reveal his Body, by means of ſome who digged at <hi>Rome,</hi> in the Church of St. <hi>Coſmus</hi> and <hi>Damianus,</hi> for Treaſure; and, which is very Remarkable, it was the very day before his Feaſt was Celebrated.</p>
+            <p>Even ſo, The Divine Providence, who with admirable convenience diſpoſeth all things, even then in the Royal
+<pb n="16" facs="tcp:153960:13"/>City of <hi>London,</hi> in the chiefeſt Church, in the greateſt Recourſe of ſuch who were ſo malevolently Opiniated, diſ<g ref="char:EOLhyphen"/>cloſed this Pardon, in Vindication of the Catholicks, when they were moſt hotly purſued, and moſt wrongfully con<g ref="char:EOLhyphen"/>demned of Crimes of this Nature: This Diſcovery being as a Witneſs produced from Heaven to acquit Them, as it were by the Sentence of <hi>God</hi> himſelf.</p>
+            <p>It will not be amiſs to note here, That this Noble Knight, Sir <hi>Gerard Braybroke,</hi> was Brother to Biſhop <hi>Braybroke,</hi> whoſe Skeleton, or Skinny Bony Remains (by the fall of St. <hi>Pauls</hi> Arched Floor into Sr. <hi>Faiths,</hi> preiently after the Fatal Fire 1666.) was diſcovered; and is now reſerved in (that our admirable piece of Building) the <hi>Conſiſtory,</hi> and ſhown as a great Rarity to curious Perſons: And from whence may be Collected, That this Family of <hi>Braybroke,</hi> had an <hi>Egyptian</hi> Humor of Deſire, that their bodies might not ſuddainly Decay; but attend, if poſſible, the Re-union of the Soul.</p>
+            <p>
+               <hi>The Juſt Weight of the Scarlet Gown</hi> (a Book full of Curi<g ref="char:EOLhyphen"/>oſity) in the Chapter of Cardinal <hi>Fabritio Savelli</hi> tells us, That a little before Pope <hi>
+                  <g ref="char:V">Ʋ</g>rbane</hi> the VIII. Dred, it was verily believed, That the deceaſed Cardinal <hi>Savelli</hi> (Unckle to this <hi>Fabritio</hi>) would have been <hi>Pope,</hi> becauſe he was a Man of an approved good Life, Charitable, and indued with all the Qualities appertaining to an High Biſhop; not fore deemed to be ſuch a Pope as lived in the Time of <hi>Se<g ref="char:EOLhyphen"/>baſtian Brandt,</hi> a <hi>German</hi> Poet, whom I ſhall quote here<g ref="char:EOLhyphen"/>after, who complains in his Chapter, <hi>De Fidei Catholicae &amp; Imperii Caſu, Turcarumque incurſione;</hi> Thus,
+<q>
+                  <lg>
+                     <l>Dormitant Reges, proceres, <hi>Palinurus</hi> in undis,</l>
+                     <l>Mortiferis recubat, qui caput orbis habet.</l>
+                  </lg>
+                  <pb n="17" facs="tcp:153960:13"/>
+                  <lg>
+                     <l>Kings, Princes Sleep; nay, the Churches Head,</l>
+                     <l>Like nodding <hi>Palinurus,</hi> takes no heed</l>
+                     <l>Unto his Helm, but ſits like one that's Dead.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>And this was the rather ſo believed, becauſe that in cer<g ref="char:EOLhyphen"/>tain Mountainous places, as one goes towards the Sea-ſhore of <hi>Siena,</hi> there was a Marble Stone found, with an Inſcrip<g ref="char:EOLhyphen"/>tion upon it, which ſaid, <hi>That in the Year</hi> 1645. <hi>there ſhould be a Pope of the Family of</hi> Savelli: And in the very ſame Stone were the Arms of <hi>Savelli</hi> Ingraven; which were <hi>Bendy</hi> Or G. <hi>a Chief</hi> Ar. <hi>charg'd with a Roſe, between two Lyons Rampant confronting one another, of the Second:</hi> As I learn from <hi>Promptuair Armorial,</hi> a <hi>French</hi> Author, who ex<g ref="char:EOLhyphen"/>hibits a ſhort Alphabet of Arms, of ſundry Nations, and a Copious one of <hi>France.</hi>
+            </p>
+            <p>Now, my <hi>Reader</hi> may object; Here's plain Preſage, but the Effects follow'd not: I anſwer, I will for once make uſe of a Word much in Vogue, whilſt the <hi>Excluſive</hi> Party raged and imagin'd vain Things, and which I ſufficiently confuted (as to their Senſe and Acceptation) in my <hi>
+                  <g ref="char:V">Ʋ</g>nio Diſſidenti<g ref="char:EOLhyphen"/>um, viz.</hi> He was not an <hi>Apparent;</hi> but <hi>Preſumptive</hi> Pope: Every body hoping and expecting his Vertues would make Him ſo. But, as to the finding of ſuch a Stone, in ſuch un<g ref="char:EOLhyphen"/>couth places, I deem and eſteem it a wonderful Diſcovery, and very worthy of Remarque, as ſtrange an Accident as one ſhall likely read.</p>
+            <p>Many of theſe Things perhaps may (to ſome) appear difficult to believe; but they are the Reports of worthy Hiſtorians; and, for my part, I profeſs, I dare not diſ-believe Them, having had my Self particular and Perſonal experi<g ref="char:EOLhyphen"/>ence of Things as ſtrange and incredible, as any of Their ſaid Relations before-recited. I could Inſtance that Memorable Accident that happened <hi>July</hi> 1671. at St. <hi>Catharines,</hi> near
+<pb n="18" facs="tcp:153960:14"/>the <hi>Tower</hi> of <hi>London,</hi> of a Maid being ſtruk upon the Arm by an Inviſible Hand, with ſeveral Croſſes of a Sanguineal hew and colour (making together a Rhombular Form, which <hi>Heralds</hi> call a <hi>Lozenge</hi>); ſhe was ſtruck more than once; for as they began to wear away, ſhe was re-ſtruck: This was ſeen by my Self, and very many Perſons more, (and ſome of great Quality, that came from <hi>White-Hall</hi>): For my own part, I have naturally ſuch an Air of Curioſity to things of this Nature, that I gave notice to very many; among the reſt, to One whom Foreign Travel, and all Polite Learning, greatly Adorn; and whoſe Treatiſe, <hi>De Ortu &amp; Natura Sanguinis,</hi> ſhall make him Memorable, as long as Humane Frailty ſhall have need of <hi>Paeonian</hi> Aid, and the Influence of <hi>Apollo.</hi> I ſay, <hi>Apollo.—Cujus</hi>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Inventum Medicina fuit, opiferque per orbem</hi>
+                     </l>
+                     <l>
+                        <hi>Dicitur; Herbarum Subjecta potentia cûique.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Who firſt Invented Med'cine; and, through all</l>
+                     <l>The World, they Him the Great Phyſician call.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>He, I ſay, was very Inſtrumental in bringing the Maid to her Health and Senſes, which the Fright had very much impaired and diſordered (as Mr. <hi>Robert Garret,</hi> Seniour Brother of St. <hi>Catharines,</hi> and others, can Atteſt.) This then, was no Foolery, or Ridiculous Paſſage, like that of the Croſſes appearing in <hi>Auſtry</hi>-Church in <hi>Warwick-ſhire;</hi> which nevertheleſs was Publiſhed in Print, and Viſited by Thou<g ref="char:EOLhyphen"/>ſands; whereas the Author had no other Record, than only the Honeſt and True Report of ſuch as ſaw it, and knew not the Fallacy.</p>
+            <p>The Croſſes of <hi>Auſtry</hi> being nothing elſe but certain re<g ref="char:EOLhyphen"/>maining old ones, Painted in Times paſt in durable Colours; and having been (upon Beautifying the Church) whited over, the White in time began, through continued Humi<g ref="char:EOLhyphen"/>dity
+<pb n="19" facs="tcp:153960:14"/>of the Air, to impair, and wear away; and ſo the un<g ref="char:EOLhyphen"/>der Painting began to appear again. An Accident which I have taken notice of long before, in a Church Mural-Paint<g ref="char:EOLhyphen"/>ing, in the County of <hi>Suffolk</hi> diſcovering the Pourtraicture of the <hi>Patron Saint</hi> of the <hi>Church.</hi>
+            </p>
+            <p>Several were the Opinions concerning this wonderful Percuſſion of the Maid of St. <hi>Catharines;</hi> ſome thought it the Effect of Witchcraft; others, a Preſage of the <hi>Romiſh</hi> Religions Reſtitution. The Place where it happened, being within the Precinct of a Colledge, left unſuppreſſed at the general Diſſolution of <hi>Henry</hi> the VIII. and continuing with Choral Service, even till the latter Times of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth:</hi> The Quire little Inferiour to that of St. <hi>Pauls;</hi> and diſſolved by the Machination of one Dr. <hi>W.</hi> the then Maſter: The Stalls yet remain of very Antique Work. As for the ſelf-ended Diſſolver, a ſtrange Judgment followed the Action; for his only Son made away himſelf in his Mothers Abode within the ſame Cloiſters; and ſhe <hi>(Ob cauſſas quas dicere nolo, mortua eſt ex Communicata, &amp; non ab<g ref="char:EOLhyphen"/>ſque Conatu multo interceſſioneque magna Chriſtianae Sepulturae, Commiſſa; cadavere interea (in faſtigio Eccleſiae plumbeo) faetorem intolerabilem emittente) reſervato: ut audivi à nativis quibuſdam, quibus Parentes haec (horrore) narrârant.</hi> So fared it with the Eagle that took a Cole from the Altar, and Fired her own Neſt.</p>
+            <div type="part">
+               <head>☞ But now to the Matter of Holy <hi>Edward</hi> the Confeſſor, Relating to His Preſent Majeſty.</head>
+               <p>AS Preparation was making for the Coronation of our pre<g ref="char:EOLhyphen"/>ſent King's moſt Sacred Majeſty in <hi>Weſtminſter-Abby,</hi> the Workmen buſied about the building of Scaffolds (either by miſchance, or out of Curioſity of Inſpection) broke the
+<pb n="20" facs="tcp:153960:15"/>Coffin, wherein lay the Remains of Holy <hi>Edward</hi> the Con<g ref="char:EOLhyphen"/>feſſor: After the Coronation was Accompliſhed, ſome Offi<g ref="char:EOLhyphen"/>cer of the Church, or Servant of the <hi>Eccleſiaſticks</hi> (as curious of Inſpection as the former) put his Staff into the hole, and ſtirring, perceived ſomething to gingle; and taking it out, found it to be a Golden Crucifix, of very conſiderable Va<g ref="char:EOLhyphen"/>lue. This he durſt not conceal, but revealing it to one of the Superiors of the Collegiate Society, it was made known to the King; who, like Himſelf, rewarded the Finder; and ſometimes, in Reverence to the Antient Proprietor; wears this Religious Ornament himſelf.</p>
+               <p>St. <hi>Edward</hi> died the Fourth of <hi>January, Anno</hi> 1066. 621 Years ago. It's remarkable, this Crucifix ſhould lie ſo long quiet and unknown, and at length be ſo ſtrangely diſcovered, and be Preſerved to be Preſented to our preſent Soveraign; as if in Him alone, above all his Predeceſſors, were Vertues agreeable to thoſe of the firſt Proprietor, the ſo Memorable Pious <hi>Edward the Confeſſor.</hi>
+               </p>
+               <p>
+                  <hi>Day-Fatality,</hi> ſpeaking of the Auſpicious Fourteenth of <hi>October,</hi> His Majeſties Birth-Day, concludes a <hi>Latin</hi> De<g ref="char:EOLhyphen"/>caſtich, with this Diſtich;
+<q>
+                     <lg>
+                        <l>
+                           <hi>Natali laetare tuo, quam maxime princeps,</hi>
+                        </l>
+                        <l>
+                           <hi>Fauſta velut haec ſunt omina ſemper habe.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Great Prince, rejoyce in this Your Day of Birth,</l>
+                        <l>And may ſuch Omens ſtill increaſe Your Mirth.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Verily, This hearty Wiſh hath not been in vain, but hath ſucceeded Proſperouſly; See <hi>Day-Fatality</hi> concerning the Third of <hi>March;</hi> as alſo, <hi>The Swans-Welcome,</hi> and <hi>Prince-Protecting Providences.</hi> And forget not, That very many took notice, that at His Majeſties Proclamation, at the ve<g ref="char:EOLhyphen"/>ry Inſtant when 'twas performed at the <hi>Royal-Exchange,</hi> a great number of <hi>Doves</hi> were there Flocked together. To
+<pb n="21" facs="tcp:153960:15"/>which is added, The finding of a Sacred Relique, apper<g ref="char:EOLhyphen"/>taining to a Dove-like Prince.</p>
+               <p>Let us hear what Authors ſay of King <hi>Edward. Stow</hi> ſays, (<hi>Pag.</hi> 94.) For His excellent Holineſs, He is, unto this very Day, called <hi>Saint Edward;</hi> who, ſo ſoon as he had gotten His Father's Kingdom, releaſed the heavy Tribute of <hi>Dane-Gilt.</hi>
+               </p>
+               <p>And (<hi>Pag.</hi> 95.) he calls Him, Good King <hi>Edward,</hi> and commends him for his Compaſſion; and relates a Story, as if <hi>God</hi> had indued Him with the Grace of ſeeing Viſions. The Deſcription of which Viſion, I have often-times be<g ref="char:EOLhyphen"/>held in Painted Glaſs, on the <hi>South</hi>-ſide of the Body of <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Abby Church.</hi> And <hi>Stow</hi> relates it at large, from approved Authors, That when the Officers had Collected the grievous Tribute, called <hi>Dane-Gilt,</hi> and brought it into the King's Treaſury; The King being called to ſee ſo great an Heap and Maſs, was, at the beholding thereof, much aſraid; proteſting he ſaw the <hi>Devil</hi> Dancing thereupon, and making exceeding much Joy; and therefore gave Com<g ref="char:EOLhyphen"/>mandment it ſhould be forthwith rendred again to the for<g ref="char:EOLhyphen"/>mer Owners thereof; averring, <hi>That of ſo cruel an Exaction He would not keep One Farthing to Himſelf, but it ſhould go back from whence it came.</hi>
+               </p>
+               <p>If Pope <hi>Nicholas</hi> the III. called the Money, drawn and ſqueeſed <hi>à Pauperibus Litigantibus,</hi> from Poor Litigious People, by cunning Solicitors and Attornies, their very <hi>Blood and Souls;</hi> How much more, hard Taxes, which eſpe<g ref="char:EOLhyphen"/>cially light upon the Trading part of a Nation; who, of all People, ought to be incouraged; as was the Opinion of <hi>Frederick</hi> Marquis of <hi>Mantua;</hi> for <hi>Les Eſtate du Monde,</hi> tells us, <hi>His Subjects lov'd Him much; for He was Liberal, and would Lend them Money without Intereſt, if he fonnd them fit for Traffick;</hi> An Heroick and Princely Humor: But I return.</p>
+               <pb n="22" facs="tcp:153960:16"/>
+               <p>
+                  <hi>Stow</hi> tells us likewiſe, King <hi>Edward</hi> was the firſt that Collected from the Ordinances, and Cuſtoms of the <hi>Mercians, Weſt-Saxons, Danes,</hi> and <hi>Northumbers,</hi> an excellent Body of Law. <hi>Fox</hi> in his <hi>Martyrology,</hi> ſays of them, <hi>That being gathered out of the Beſt and Chiefeſt of other Laws, they were ſo Juſt and Equal, and ſo Serving the Publick Profit and Weal of all Eſtates and Conditions of Men, that the People long after did Rebel to have the ſame Laws again.</hi>
+               </p>
+               <p>
+                  <hi>Matthew Paris</hi> tells us, That <hi>William the Conqueror,</hi> at his Coming in, did Swear to Uſe and Practiſe the ſame Good Laws of King <hi>Edward,</hi> for the Common Laws of the <hi>Realm;</hi> but, being Eſtabliſhed in the Kingdom, broke his Word, and placed the <hi>Norman Laws</hi> in their room. And <hi>Stow</hi> in<g ref="char:EOLhyphen"/>forms us, That his Son, <hi>Henry</hi> the Firſt, reſtored the ſaid <hi>Laws</hi> again, and amended Them where deficient. In the firſt Chapter of the ſaid <hi>Laws,</hi> the Duty of a King is excel<g ref="char:EOLhyphen"/>lently ſet forth; but I refer you to <hi>Fox.</hi>
+               </p>
+               <p>But let us hear the <hi>Elogy</hi> the aforeſaid <hi>Fox</hi> gives this Prince (from approved Authors;) <hi>He was a Man of a Gentle and Soft Spirit, of Nature and Condition ſo far from all War and Blood-ſhed, that being in His Baniſhment, He wiſhed rather ſo to continue all His Life-time, in that Private E<g ref="char:EOLhyphen"/>ſtate, than by Blood-ſhed to aſpire to His Kingdom.</hi> After He had taken upon Him the Government of the Realm, He guided the ſame with much Wiſdom and Juſtice Twenty Four Years, ſave Two Months; from whom Iſſued (as out of a Fountain) much <hi>Godlineſs, Mercy, Pity,</hi> and <hi>Liberality</hi> to<g ref="char:EOLhyphen"/>wards the <hi>Poor, Gentleneſs</hi> and <hi>Juſtice</hi> towards all <hi>Men;</hi> and, in all <hi>Honeſt Life,</hi> He gave a <hi>Vertuous Example</hi> to His <hi>People.</hi>
+               </p>
+               <p>
+                  <hi>Wardner,</hi> in his <hi>Albions England,</hi> ſays thus of St. <hi>Edward:</hi>
+               </p>
+               <q>
+                  <l>Religious, Chaſt, Wiſe, Fortunate, Stout, Frank and Mild was He;</l>
+                  <l>And from all Taxes, Wrongs and Foes did ſet His Kingdom Free.</l>
+               </q>
+               <pb n="23" facs="tcp:153960:16"/>
+               <p>Serlo, <hi>of</hi> Paris, <hi>in his</hi> Epitaph, <hi>begins thus of Him;</hi>
+               </p>
+               <q>
+                  <lg>
+                     <l>Edovardus probitate potens Pietate verendus.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Powerful in</hi> Goodneſs, <hi>and Reverend in His</hi> Piety.</l>
+                  </lg>
+               </q>
+               <p>
+                  <hi>Robert</hi> of <hi>Gloceſter</hi> calls him, <hi>Edward the Simple</hi> (under<g ref="char:EOLhyphen"/>ſtand it not in our worſt Acceptation at this day) but with a reference to <hi>Mat.</hi> 10.16. <hi>As Innocent and Harmleſs as a Dove:</hi> or, to the Qualification of <hi>Moſes, Numb.</hi> 12.3. <hi>Who was very Meek above all the Men upon the Face of the Earth.</hi> Farther Illuſtrated, <hi>Ecclus.</hi> 45.1, 2, 3, 4. concluding thus, <hi>That</hi> God <hi>choſe Him for His Faithfulneſs and Meekneſs, out of all Men,</hi> &amp;c. <hi>Meekneſs</hi> being an Attribute our <hi>Saviour</hi> aſſumes to himſelf, <hi>Matt.</hi> 11.29. and therefore by no means unbe<g ref="char:EOLhyphen"/>coming a King; and which <hi>Robert</hi> of <hi>Gloceſter</hi> ſhould have called <hi>Sweetneſs of Converſation,</hi> which was made admirably good in that Story <hi>Alluredus Rivalleneſs</hi> relates of Him,</p>
+               <p>That as He lay on a Time Waking in His Bed, it chanced, That His <hi>Chamberlain</hi> taking Money out of one of the King's Coffers, left it open, and goes his ways: A Young Servitor, that Waited at the King's Table, ſpying the Coffer open, and ſuppoſing the King aſleep, thruſt a good quantity of Money into his Boſome, goes away, and lays it up; comes again, and does the like; and when he came the Third time, and the King knew (as 'twas thought) the <hi>Chamberlain</hi> was at hand, and willing the Young-Man ſhould avoid the danger, cryed out to him; <hi>Thou art too bold, take what Thou haſt, and get Thee gone; for, by</hi> God<hi>'s Mother, if</hi> Hugoline <hi>come</hi> (for that was the <hi>Chamberlain</hi>'s Name, and whoſe <hi>Epitaph</hi> is men<g ref="char:EOLhyphen"/>tioned by <hi>Weaver,</hi> Pag. 483.) <hi>he will not leave Thee one Penny;</hi> whereupon the Thief made haſt away, and was ne<g ref="char:EOLhyphen"/>ver diſcovered by the King: Now, when <hi>Hugoline</hi> came, and perceived much Money to be gone, and by his own neg<g ref="char:EOLhyphen"/>ligence,
+<pb n="24" facs="tcp:153960:17"/>he began to ſigh moſt grievouſly; whereupon, the King Riſing, and making as if he knew nothing of what had happened, asked, <hi>What he ailed to be ſo Troubled?</hi> which, when the <hi>Chamberlain</hi> had related; the King replyed, <hi>Be not Troubled, certainly he that hath it, has more need of it than Thou and I; let him go, that which remains is enough for <g ref="char:V">Ʋ</g>s.</hi>
+               </p>
+               <p>Certainly, This is an Inſtance of great Clemency, Mild<g ref="char:EOLhyphen"/>neſs, and good Humor: And, to which, let me add ano<g ref="char:EOLhyphen"/>ther out of <hi>Haraeus.</hi>
+               </p>
+               <p>The King Reſiding at His Palace, near the Church of St. <hi>Peter,</hi> there came a certain <hi>Iriſh-Man,</hi> deprived of the Uſe of both his Feet; and ſeeing <hi>Hugoline,</hi> the King's <hi>Chamberlain,</hi> ſaid unto him, <hi>Six times (as thou ſeeſt, even creeping) have I Viſited the Threſholds of the Apoſtles, and yet have not deſerved the Reſtoration of my Limbs. But I have re<g ref="char:EOLhyphen"/>ceived Command from the Prince of the Apoſtles, to go to the King; That He, taking me upon His Sacred Shoulders, bear me to the Church, near His Palace; there to receive my Cure, if ſo be He vouchſafes to do it.</hi> (Oh wonderful Humility!) The King takes him on His Shoulders, and carries him: the Man ſtretches out his Leggs, (his Hams being become Flexible) and is Cured. Thus is the Story related by my Author, who Dedicated his Book to Pope <hi>Sixtus Quintus.</hi>
+               </p>
+               <p>
+                  <hi>God</hi> Bleſſed theſe his admirable Vertues with the wonder<g ref="char:EOLhyphen"/>ful Gift of Healing the <hi>King's-Evil.</hi> The Author of the Book called <hi>Vita Edovarde,</hi> ſays thus: This King <hi>Edward,</hi> of Famous Memory, before the Day of His Nativity, was Elected of <hi>God;</hi> wherefore, as we have known, produced by good and ſufficient Witneſſes, <hi>God</hi> greatly Glorified Him in His Life-time, with wonderful Signs; among the which, this that follows was one: A Young-Woman Mar<g ref="char:EOLhyphen"/>ried,
+<pb n="25" facs="tcp:153960:17"/>but without Children, <hi>&amp;c.</hi> had a Diſeaſe about her Jaws, and under her Cheeks, like Kernels; and this Diſeaſe ſo Corrupted her Face with Stench, that, without great ſhame, ſhe could not ſpeak to any body. This Woman was admoniſhed in her Sleep, <hi>To go to King</hi> Edward, <hi>and procure Him to Waſh her Face with Water, and ſhe ſhould be Cured.</hi> To the Court ſhe came; and the King, Informed of the Mat<g ref="char:EOLhyphen"/>ter, diſdained not to make Tryal: having therefore a Baſon of Water brought unto Him, He dipped His hands therein, and waſhed the Womans Face, oft-times rubbing the Diſea<g ref="char:EOLhyphen"/>ſed place; ſometimes alſo ſigning it with the Sign of the Croſs. Now, after He had thus Waſhed it, the hard Cru<g ref="char:EOLhyphen"/>ſtation or Swelling was ſoftned and diſſolved; and the King preſſing with His hand the Tumors, out of them came little Worms (of which they were full) as alſo much Corrupt Matter and Blood: The King ſtill perſevered with His hands to bring forth the Corruption. This done, He commanded her a ſufficient Allowance every day, for all things neceſſary, until ſhe had received perfect Health; which was within a Week after: And whereas ſhe was before Barren, ſhe had a Child by her Husband. <hi>Ex libro cui Titulus, Vita Edovardi.</hi>
+               </p>
+               <p>Again, Authors affirm, That a certain Man named <hi>
+                     <g ref="char:V">Ʋ</g>lfuni<g ref="char:EOLhyphen"/>us Spillcorne;</hi> when he had hewn Timber in a certain Wood, laid him down to Sleep, after his ſore Labour: Now, the Blood and Humors of his Head ſo ſettled about his Eyes, that he was thereof Blind for Nineteen Years: But, admo<g ref="char:EOLhyphen"/>niſh'd in his Sleep, he went in Pilgrimage to many Churches, to implore the help of <hi>God</hi> for his Blindneſs; and, laſt of all, he came to Court; where he ſtood at the Entry of the King's Chamber, an earneſt Suitor for his Royal Help. At length, the King being Informed of the Poor Man's Dream, He ſaid, <hi>By Our Lady Saint</hi> Mary, <hi>I would do any thing with a good
+<pb n="26" facs="tcp:153960:18"/>Will, if it would pleaſe</hi> God, <hi>by Me, to have Mercy upon this Poor Wretch:</hi> So, being alſo much put on by His Attendants, He call'd for Water, and waſhed the Blind-Man's Eyes, and ſtrait-ways the Blood dropped plentifully out; and the Man being Healed, cryed out with a chearful Voice, <hi>I ſee Thee, O King!</hi> Thus having recovered his Sight, he kept the King's Palace at <hi>Windſor</hi> a long Seaſon (for there he was Healed) after King <hi>Edward</hi> was Dead; and Deceaſed in the Reign of <hi>William the Conqueror.</hi> Now, although theſe things ſeem ſtrange, yet the <hi>Normans</hi> ever averred, That He often did the like in His Youth, while He remained in <hi>Normandy</hi> in Exile. How much more then, when He came to be a King, in Poſſeſſion (actually a Vicegerent of the Omnipotent <hi>God</hi>), that, by what means ſoever pleaſes himſelf, works Wonders.</p>
+               <p>I have been the more large in the Recital of theſe Two re<g ref="char:EOLhyphen"/>markable Paſſages, becauſe our Kings of <hi>England</hi> deduce their Gifts and Faculties of Curing the <hi>King's-Evil</hi> (called in <hi>Latin, Struma,</hi> in <hi>French, Les Eſcroueles</hi>) from <hi>Edward the Confeſſor,</hi> upon theſe Two Cures. And, becauſe Cured by Our Kings, we call it the <hi>King's-Evil;</hi> and in our Mo<g ref="char:EOLhyphen"/>dern <hi>Latin, Morbus Regius.</hi> And to this will I make par<g ref="char:EOLhyphen"/>ticular Application at the End of my Diſcourſe.</p>
+               <p>Neither will I omit, from the Recitals aforeſaid, to ſpeak ſomething in ſavour of Dreams: <hi>Johannes Spondanus,</hi> in his Comment upon <hi>Penelopes</hi> Dream, (<hi>Lib.</hi> 14. <hi>Hom. Odys</hi>) ſays, <hi>Re vera hic teſtor,</hi> &amp;c. I do avow, (which alſo I have heard made good by Perſons of undoubted Credit, as to themſelves) nothing conſiderable, either Good or Ill, ever happened to me, but I foreſaw it in my <hi>Dreams.</hi>
+               </p>
+               <p>He Dedicated his Book to <hi>Henry</hi> the Third, King of <hi>Navarre;</hi> which was after King of <hi>France,</hi> and known by the Name of <hi>Henry le Grand;</hi> and to whom he durſt not
+<pb n="27" facs="tcp:153960:18"/>have uttered any thing but Truth. <hi>Nam Sacra eſt Reverentia Regnum.</hi>
+               </p>
+               <p>I could ſay ſomething as to my own particular, very patt to the purpoſe: But I eſteem it fitter for Private Diſcourſe, than Publick Edition, and return to the Matter in hand.</p>
+               <p>Theſe, before-recited, were the Vertues, Qualifications, and Endowments of the Prince, whoſe <hi>Crucifix</hi> was ſo ſtrange<g ref="char:EOLhyphen"/>ly preſerved (which being ſo ſecretly found, and not known of before, might eaſily have been detain'd): But as the Viſion of St. <hi>Brightwald</hi> (ſometimes <hi>Monk</hi> of <hi>Glaſtenbury,</hi> and after Biſhop of <hi>Wilton</hi>) aſſured him, <hi>The Kingdom of</hi> England <hi>was the Kingdom of</hi> God, <hi>and He would give it to whom He pleaſed.</hi> So, this <hi>Regium Cimelium,</hi> this <hi>Royal Rarity,</hi> was ordained for One Elect of <hi>God;</hi> whom, though the Numerous and Powerful <hi>Excluſive</hi> Party in <hi>England,</hi> and a Malevolent Party in <hi>Scotland,</hi> would have put by; yet, maugre all, He is become Saint <hi>Edward</hi> the <hi>Confeſſor</hi>'s Succeſſor to His <hi>Crown, Scepter,</hi> and <hi>This Religious Relique,</hi> ſo wonderfully preſerved: Which is the more Remarkable, in that the Maſſy Silver Head, belonging to the <hi>Royal Image,</hi> covered all over with Silver Plate, guilded, which Queen <hi>Catharine</hi> cauſed to be laid upon the Tomb of <hi>Henry</hi> the Fifth; was, at the Suppreſſion in <hi>Henry</hi> the Eighth's Time, when the battering Hammers of Deſtruction made havock almoſt in every Church, Sacrilegiouſly purloined forth <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Abby;</hi> though one would think, it being ſo maniſeſt and obvious a thing, it ſhould have Incited and Commanded the Care of the Church Officers to its Security and Preſerva<g ref="char:EOLhyphen"/>tion from Sacriledge.</p>
+               <p>No doubt, the having of this Pious <hi>Symbole</hi> and <hi>Badge,</hi> ſo auſpiciouſly come by, is an evident <hi>Omen</hi> and <hi>Preſage,</hi> our <hi>Soveraign</hi> (as was its Priſtine Owner) will be Bleſſed with
+<pb n="28" facs="tcp:153960:19"/>an happy Hand, in the Cure of the <hi>King's-Evil;</hi> Be as ſpa<g ref="char:EOLhyphen"/>ring of heavy Taxes as may be; A great Conſervator of the Laws of he Land; A Pattern of Piety; A Mirrour of Mer<g ref="char:EOLhyphen"/>cy; A Fountain of Pity and Liberality towards the Poor; Gentle and Juſt towards all Men: In a word, an <hi>Exchecquer</hi> of all Vertue; as was the former Bearer thereof. I have mentioned before, That <hi>Wardner</hi> ſays of St. <hi>Edward, That He ſet His Kingdom free from all Wrongs and Foes.</hi>
+               </p>
+               <p>
+                  <hi>Serlo,</hi> of <hi>Paris,</hi> ſays of Him to the ſame Effect:
+<q>
+                     <lg>
+                        <l>Hic bello ſic pace ſuos exterruit Hoſtes,</l>
+                        <l>Praeſumpſit pacem rumpere nemo ſuam.</l>
+                     </lg>
+                     <lg>
+                        <l>In Peace and War He ſo o're aw'd His Foes,</l>
+                        <l>None dare His Peace and Quiet diſcompoſe.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Hear Old <hi>Robert</hi> of <hi>Gloceſter</hi> ſpeaking to the ſame effect: <hi>Sooth our Lord nouriſhed his Meekneſs, and yat him great Graſe that Men ſhould be addrade of him, that routh not be Wrath; and though Men trowed him to be Slow, he had ſuch Subjects under him, that at his heſt, daunted his Enemies; as</hi> Syward <hi>Earl of</hi> Northumberland, <hi>and</hi> Leofricus <hi>of</hi> Hereford, <hi>&amp;c.</hi>
+               </p>
+               <p>Our Legiſts tell us, <hi>Qui facit per alium facit per ſe,</hi> King <hi>Edward</hi> did His Enemies buſineſs by others. But our Prince (<hi>JAMES</hi> the Good and Juſt) is able to be His own Conduct; to be <hi>Immenſi tremor Oceani, Terrarum Arbi<g ref="char:EOLhyphen"/>ter;</hi> the Terror of the Ocean, the Ballance and Arbiter of Nations. <hi>Who ſhall dare to raiſe up this Lyon of</hi> England? <hi>Gen.</hi> 49.9.</p>
+               <pb n="29" facs="tcp:153960:19"/>
+               <p>
+                  <hi>Day-Fatality</hi> (Edit. 2. P. 1.) tells us, <hi>Normandy</hi> was Conquered from Duke <hi>Robert,</hi> that Day Forty Years the <hi>Normans</hi> had won <hi>England. Edward the Confeſſor</hi> came from <hi>Normandy</hi> to Reign in <hi>England,</hi> His Father's King<g ref="char:EOLhyphen"/>dom, unjuſtly detained by His Maternal Brother: Why may not our Dread <hi>Soveraign,</hi> the Poſſeſſor of the Holy <hi>Confeſſor</hi>'s Religious <hi>Badge</hi> (ſo ſtrangely and ominouſly Recovered) go out of <hi>England (Si fas ſit ita loqui)</hi> into <hi>Normandy,</hi> and Recover and Annex it to its Priſtine Union, being His rightly deſcended Dukedome? (<hi>Nihil loquor de Andegavia, de Comit' Pontino, Aquitania,</hi> &amp;c.) He being a Prince cer<g ref="char:EOLhyphen"/>tainly Born for Great Actions, and Bleſſed with a continu<g ref="char:EOLhyphen"/>ation of Lucky Omens.</p>
+               <q>
+                  <g ref="char:V">Ʋ</g>nanimes cuncti quae ſemper habeto precemur.</q>
+               <p>How Benignly and Courteouſly, by His Means and Incou<g ref="char:EOLhyphen"/>ragement, are the Exiled <hi>French</hi> Received by Us? A Royal Brief being granted by His Majeſty, for a Liberal Collection towards Their Relief.</p>
+               <p>I have by me an Antient Book, written at firſt in the <hi>German</hi> Tongue, by <hi>Sebaſtian Brandt,</hi> Doctor of both <hi>Laws,</hi> and Profeſt <hi>Orator</hi> and <hi>Poet;</hi> and Stiled by him, the <hi>Ship of Fools,</hi> laying open the Folly and Frailty of all ſorts and conditions of Men; a Book very expedient and neceſſary to the <hi>Reader.</hi> This Book <hi>Jacobus Locherus</hi> Tranſlated into <hi>Latin</hi> Verſe; and from him one <hi>Alexander Barcklay,</hi> Canon of St. <hi>Mary Ottry,</hi> having Peruſed it in Three Languages, <hi>Latin, French,</hi> and <hi>Dutch,</hi> (as he Solemnly Profeſſes in his Epiſtle) Tranſlated into <hi>Engliſh</hi> Meetre. In his Chapter of the Ruine of the <hi>Holy Catholick Faith,</hi> and Diminution of the <hi>Empire,</hi> by the <hi>Turks,</hi> he Exhorts all <hi>Chriſtian</hi> Princes and Potentates, to joyn Hand in Hand againſt the Incroach<g ref="char:EOLhyphen"/>ing Infidels. Now, whereas <hi>Brandt</hi> and <hi>Locher</hi> place all
+<pb n="30" facs="tcp:153960:20"/>their hope in <hi>Maximilian,</hi> King of the <hi>Romans,</hi> as a moſt fit Leader: Our <hi>Engliſh</hi> Canon transfers it (by a Poetical Di<g ref="char:EOLhyphen"/>greſſion and Diverſion) to the Famous King <hi>James</hi> the IV. of <hi>Scotland.</hi> Let us hear firſt the <hi>Latin,</hi> and after the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Poetry of that Age; and, firſt, for <hi>Lecher.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>Maxmilianus</hi> adeſt, quo major Tempore nullo</l>
+                  <l>Rex fuit, à digno Stemmate Sceptra gerens,</l>
+                  <l>Invideat quicunque velit, non juſtior illo</l>
+                  <l>Principe, non Heros clarior ullus erat.</l>
+                  <l>Caeſareum vultum praefert, inque ore niteſcit</l>
+                  <l>Majeſtas, mores Nobilitatis habet.</l>
+                  <l>Fraudibus attentat nihil hic; nihil ille Doloſum</l>
+                  <l>Concipit, at plano Tramite vita meat</l>
+                  <l>Hunc non inſani faſtus, ſed Candida virtus</l>
+                  <l>Elevat. Hic ſolus faedera pacis amat,</l>
+                  <l>Hoc duce creſcet Honos terris, <hi>&amp;c.</hi>
+                  </l>
+                  <l>Hoc duce Sarmaticas gentes ſuperabimus, atque</l>
+                  <l>Euxinum Pelagus Biſtonicoſque lares.</l>
+               </q>
+               <p>Now comes in <hi>Barcklay,</hi> whoſe Tranſlation is Paraphraſti<g ref="char:EOLhyphen"/>cal; and from whom we gather what an Opinion the World had of <hi>James</hi> the IV. aforeſaid, Predeceſſor to His Preſent Majeſty.</p>
+               <q>
+                  <lg>
+                     <l>But ye, Chriſtian Princes, whoſoever ye be,</l>
+                     <l>If ye be deſtitute of a Noble Captain,</l>
+                     <l>Take <hi>James</hi> of <hi>Scotland</hi> for His Audacity</l>
+                     <l>And proved Manhood, if ye will Laud attain;</l>
+                     <l>Let Him have the forward, have ye no Diſdain</l>
+                     <l>Nor Indignation; for never King was Born,</l>
+                     <l>That is of War ſo much a <hi>Unicorn.</hi>
+                     </l>
+                  </lg>
+                  <pb n="31" facs="tcp:153960:20"/>
+                  <lg>
+                     <l>For if He take once His Spear in Hand,</l>
+                     <l>Againſt theſe <hi>Turks,</hi> ſtrongly with it to Ride,</l>
+                     <l>None ſhall be able His Proweſs to withſtand,</l>
+                     <l>Nor before His Face ſo hardy to abide:</l>
+                     <l>Yet this His Manhood, Increaſes not His Pride;</l>
+                     <l>But ever ſhews His Meekneſs and Humility,</l>
+                     <l>In Word or Deed, to high and low Degree.</l>
+                  </lg>
+                  <lg>
+                     <l>In Prudence, peerleſs is this moſt comely King;</l>
+                     <l>And as for His Strength and Magnanimity,</l>
+                     <l>Concerning His Noble Deeds in every thing,</l>
+                     <l>One found on Ground, like Him, there cannot be:</l>
+                     <l>By Birth born to Boldneſs and Audacity,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>nder the bold Planet of <hi>Mars</hi> the Champion,</l>
+                     <l>Surely, to Subdue His Enemies each one.</l>
+                  </lg>
+                  <lg>
+                     <l>Let Him be foremoſt; then doubt ye not at all,</l>
+                     <l>For only His Look, ſo Bold is His Courage,</l>
+                     <l>The <hi>Turks</hi> Pride ſhall make Decay and Fall.</l>
+                     <l>Like to a Lyon, in Deeds He ſhall Rage.</l>
+                     <l>Thus He being Guide, the Fury ſhall aſſwage</l>
+                     <l>Of the falſe <hi>Turks;</hi> ſo that they ſhall be fain,</l>
+                     <l>Our Chriſtian Lands to <g ref="char:V">Ʋ</g>s to yield again.</l>
+                  </lg>
+                  <lg>
+                     <l>If the <hi>Engliſh</hi> Lyon, His Wiſdom and Riches,</l>
+                     <l>Conjoyn with True Love, Peace, and Fidelity,</l>
+                     <l>With the <hi>Scotch Unicorn</hi>'s Might and Hardineſs;</l>
+                     <l>There is no doubt, but then all Chriſtianity</l>
+                     <l>Shall Live in Peace, Wealth, and Tranquility,</l>
+                     <l>And the <hi>Holy Land</hi> come in Chriſtian hand is.</l>
+                  </lg>
+               </q>
+               <p>This our Poet concluded his Tranſlation, 1508.23 <hi>Henry</hi> the VII. as he ſays, <hi>Pag.</hi> 259. But I perceive, by ſome Mar<g ref="char:EOLhyphen"/>ginal
+<pb n="32" facs="tcp:153960:21"/>Notes, 'twas not Printed till <hi>Henry</hi> the VIII. began His Reign. And I cannot but take notice of his Heraldical Alluſion, expreſſing the two Kings of <hi>England</hi> and <hi>Scotland,</hi> the Firſt by His Arms and Supporters; and the Laſt, by the <hi>Laſt;</hi> which accidently I imitated in a Diſtich I compoſed, when an over-confident Report was of the <hi>French</hi> King's Death, in <hi>Aug.</hi> 85.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Lilia</hi> Flacceſcunt, &amp; fit <hi>Carbunculus</hi> ater;</l>
+                     <l>
+                        <hi>Mars</hi> Moeret, ſummus ejus Alumnus obit.</l>
+                  </lg>
+                  <lg>
+                     <l>French <hi>Lilies hang their Head, and</hi> Navarrs <hi>Radiant Stone</hi>
+                     </l>
+                     <l>
+                        <hi>Grows dark;</hi> Mars <hi>grieves, his deareſt and chief Pupil's gone.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>Now as to the <hi>
+                     <g ref="char:V">Ʋ</g>nicorn</hi> of <hi>Scotland,</hi> and the Poets Alluſion aforeſaid, read <hi>Numb.</hi> 23.22, and 24.8. and <hi>Job</hi> 39.9, and 10. Verſes.</p>
+               <p>But I return to <hi>James</hi> the IV. He was (as well as very Valiant) a Wiſe and Politick Leader; for, at the Battle of <hi>Flodden</hi> Field, obſerving the great number of <hi>Engliſh</hi> Horſe, (and thoſe of large and ſtrong ſize, the <hi>Scotch</hi> Horſe being ſmall) He told His Nobles and Commanders, We ſhall do no good with our Horſes: We are as Valiant and Strong, as to our Perſons, as our Enemies; We muſt make Foot work of it. <hi>Stow</hi> deſcribes the Battle at large, and ſays, The <hi>Scotch</hi> Spears did twice ſore indanger the <hi>Engliſh</hi> Forces; that the King himſelf, even in the foremoſt Rank, Fought right Valiantly, encouraging His People, as well by Ex<g ref="char:EOLhyphen"/>ample as Perſwaſions to do their beſt. In fine, the Lord <hi>Dacres,</hi> with his Horſe, was the cauſe of the <hi>Scotch</hi> Defeat; and the King moſt Valiantly Fighting, was unfortunately Slain. See <hi>Weaver, Pag.</hi> 394. We have heard <hi>Barcklays</hi> Elogiums of this moſt Heroick Prince; and <hi>Stow</hi>'s Teſti<g ref="char:EOLhyphen"/>mony of His Valour; let us hear what others ſay.</p>
+               <pb n="33" facs="tcp:153960:21"/>
+               <p>
+                  <hi>John Johnſton,</hi> in his Hiſtorical Deſcription of the <hi>Scottiſh Kings,</hi> concludes one of his <hi>Stanza's</hi> thus, to his Eternal Praiſe:
+<q>
+                     <lg>
+                        <l>Quod ſi animis ortiſque tuis, ſors aequa fuiſſet,</l>
+                        <l>Imperii fines ultima Terra daret.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>If to Thy Mind and Aim, Fate had been Juſt,</hi>
+                        </l>
+                        <l>
+                           <hi>The World unto Thy Rule ſubmitted muſt.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+               <p>Again;
+<q>
+                     <lg>
+                        <l>Illum fama vehens latè Circumſona Olympo</l>
+                        <l>Aequat, pro tumulo maximus orbis erit.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>The Univerſe His Funeral Pile ſhall be,</hi>
+                        </l>
+                        <l>
+                           <hi>Whom by <hi>Fames</hi> Trump to reach the Stars we ſee.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+               <p>And in <hi>Camden</hi>'s Remains we have an <hi>Epitaph</hi> for him, con<g ref="char:EOLhyphen"/>cluding thus, as if ſpeaking to His Royal Self:
+<q>
+                     <l>Si mihi dent animo non impar fata Sepulchrum,</l>
+                     <l>Auguſta eſt tumulo terra Britanna meo.</l>
+                  </q>
+               </p>
+               <p>Which intimates That if the Fates had given him a Monument equal to His Great Mind, not a ſmall rais'd-up heap of Earth; [As Antiently was the Cuſtom; See <hi>Weaver,</hi> Pag. 6. and <hi>Virgil, Lib.</hi> 7. ſpeaking of <hi>Caietas</hi> Monument, <hi>Aggere compeſito tumulus;</hi> and ſo <hi>Aeneid</hi> 11.</p>
+               <q>
+                  <l>— Fuit ingens monte ſub alto</l>
+                  <l>Regis <hi>Dercenni</hi> terreno ex aggere Buſtum.</l>
+               </q>
+               <p>Thus Tranſlated by Doctor <hi>Thomas Twine:</hi>
+                  <q>
+                     <l>— Beneathen Hill full hye,</l>
+                     <l>The Tomb of King <hi>Dercennus,</hi> raiſed up, aloft doth lye;</l>
+                     <l>With mighty Mount of <hi>Laureat</hi> Ground, <hi>&amp;c.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>See <hi>Stone-henge Reſtored, Pag.</hi> 27. and 30. quoting <hi>Leland: In Egeſtis per campos terrae tumulis, quos Burghos appellamus ſunt Se<g ref="char:EOLhyphen"/>pulti.</hi>] I ſay, Not a ſmall heap of Earth, not a mean Berry or Barrow, but all <hi>Britain</hi> it ſelf, ſhould have been His Funeral Mole and Pile.</p>
+               <p>The Magnanimity of our preſent Soveraign cannot make us believe otherwiſe, than that the Virtual and Warlike <hi>Genins</hi> of this Famous <hi>JAMES,</hi> is, by Generative Deſcent, I (will not ſay, <hi>Pythagorean</hi> Tranſmigration) ſtreamed down into himſelf.</p>
+               <pb n="34" facs="tcp:153960:22"/>
+               <p>I muſt not omit one thing: The late Duke of <hi>Norfolk</hi> having the Sword of this Valorous Prince (as an Heir Loom) in his Poſ<g ref="char:EOLhyphen"/>ſeſſion, taken by his Anceſtor; beſtow'd it, as a great Rarity, up<g ref="char:EOLhyphen"/>on the <hi>Heralds Office.</hi> The preſent Duke, preſently after His Late Majeſty's Deceaſe diſcourſing with His Preſent Majeſty about it, He had a mighty deſire to ſee it; ſo 'twas ſent for, and the King Pois'd it ſeveral times in His hands, with more than ordinary Pathetick Impreſſion; As I have been aſſured by the Porter of the ſaid <hi>Office;</hi> who, bringing it back, call'd at a place where I was with ſome Friends, to whom this accidental Overture of ſeeing the Sword, was exceeding Acceptable and Diverting: For my part, I have often thought of this Paſſage, When I conſider'd the Vertues of the Prince that wore this remark<g ref="char:EOLhyphen"/>able Weapon, <hi>viz. James</hi> the Fourth; whom our Chanon of Saint <hi>Mary Ottry,</hi> would have had to have been the Chriſtian Prince's <hi>Agamemnon</hi> againſt the <hi>Infidels.</hi> — I have ſaid before, <hi>Qui facit per alium facit per ſe.</hi> Now, if what the Chanon would have had done by the Predeceſſor, be done by the <hi>Arriere-Nephew</hi> and <hi>Succeſſor,</hi> his Wiſh is fulfilled; and in Him; the <hi>Lyon</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nicorn</hi> are united, <hi>viz. Henry</hi> the Seventh, and the moſt Vali<g ref="char:EOLhyphen"/>ant <hi>James</hi> the Fourth, <hi>His Royal Names ſake</hi> aforementioned.</p>
+               <p>
+                  <hi>Poets</hi> are a kind of <hi>Prophets</hi> and <hi>Seers.</hi> Now, Mr. <hi>Payne Fiſher,</hi> in an Ode which he made upon his Sacred Majeſty's Inaugura<g ref="char:EOLhyphen"/>ration, concludes thus:
+<q>
+                     <l>— Oremus</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>t Rex <hi>Jacobus</hi> diu vigeat,</l>
+                     <l>Nec <hi>Britannus</hi> Orb's indigeat</l>
+                     <l>Rege, nato de <hi>Jacobis</hi>
+                     </l>
+                     <l>Donec adſit <hi>Shiloh</hi> nobis.</l>
+                  </q>
+               </p>
+               <p>Which I preſume to <hi>Engliſh</hi> thus:
+<q>
+                     <l>Let's Pray our <hi>James</hi> may Live full long,</l>
+                     <l>And that there never may want one</l>
+                     <l>To Rule the <hi>Britains</hi> (Brave) among,</l>
+                     <l>From many Royal <hi>James</hi>'s Sprung,</l>
+                     <l>Till it pleaſe <hi>God, Shiloh</hi> ſhall come.</l>
+                  </q>
+               </p>
+               <p>Which Verſes plainly Import, as if in that <hi>Name,</hi> ſome ſecret hidden Vertue lay Divinely couched and enſhrined.</p>
+               <pb n="35" facs="tcp:153960:22"/>
+               <p>In my <hi>Chriſtian Valour Incouraged,</hi> ſet out 84. when the <hi>Vene<g ref="char:EOLhyphen"/>tians</hi> made their Inroad into <hi>Morea;</hi> I ſtrongly Inſinuate the <hi>French</hi> King was the Man muſt be mainly Inſtrumental to ruine the <hi>Turk:</hi> I recited ſeveral Propheſies; but eſpecially that of <hi>Joachim:</hi>
+               </p>
+               <q>
+                  <p>
+                     <hi>The</hi> Turk <hi>ſhall be Deſtroyed by Three Nations; By the</hi> French, Propter bonos Equites, <hi>for their excellent Cavalry; By the</hi> Engliſh, Propter bonos Marinarios, <hi>for their excellent Seamen; and, By the</hi> Venetians, Propter bonum Conſilium, <hi>for their Prudent Councils.</hi> This Prophecy is worthy of Remarque; and the <hi>French</hi> in the Van. <hi>I go on, and add:</hi> The <hi>French</hi> Monarch is become Potent in Shipping; but He is not King of the <hi>Engliſh Mariners,</hi> which muſt make up the <hi>Ternary,</hi> according to <hi>Joachim.</hi>
+                  </p>
+                  <p>Strange Revolutions have happened to <hi>England</hi> ſince the Year 78. That Generous <hi>Maximus Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inus,</hi> mentioned in <hi>Day-Fata<g ref="char:EOLhyphen"/>lity</hi> (once Great Admiral of <hi>Arragon;</hi> and till the Year 73. High Admiral of <hi>England,</hi> is now again, at length, re-inveſted in all His Honours; and that in ſpight of that Crew, mentioned in <hi>In<g ref="char:EOLhyphen"/>troductio ad Latinam Blaſoniam,</hi> Pag. 165. with ſtrange <hi>Propheti<g ref="char:EOLhyphen"/>cal Heraldieal</hi> Reflections: He, I ſay, is reſtor'd; Influenc'd by a Divine Power and Favour, and the Benevolent Rays of Frater<g ref="char:EOLhyphen"/>nal Love; The Love of the greateſt <hi>Sea Prince</hi> in the World, <hi>Charles le bon, &amp; le grand.</hi>
+                  </p>
+                  <p>Pray <hi>God</hi> incline the Heart of the Great <hi>French Cyrus;</hi> The Heart of the Great <hi>Charles</hi> of <hi>Great Britain;</hi> And then the <hi>French Cavalry,</hi> and the <hi>Engliſh Mariners,</hi> Influenc'd by the Au<g ref="char:EOLhyphen"/>ſpicious <hi>Genius</hi> and Succeſs of Prince <hi>Maximus Marinus.</hi> His Royal Highneſs, will be Aſſiſtant to the <hi>Venetian</hi> Counſels and Undertakings.</p>
+               </q>
+               <p>Thus I, in my ſaid Little Treatiſe.</p>
+               <p>Since which <hi>(Sic dii voluêre) Charles le bon</hi> is departed into another World, and <hi>James</hi> the Great is become Sole <hi>Arbiter</hi> of His Brothers Power; and needs none of His Brothers Influence; I ſay, no Influence, but that of <hi>God:</hi> Which, let's pray He may never want, to Subdue the Enemies of Criſtendome, as well as Thoſe of His own peculiar Kingdoms <hi>(faxit Deus).</hi>
+               </p>
+               <q>
+                  <l>Auxilium contra <hi>Turcas</hi> Rex inclite praele:</l>
+                  <l>
+                     <hi>Anglus <hi>Venetis</hi> Gallus</hi> &amp; addat opem.</l>
+                  <pb n="36" facs="tcp:153960:23"/>
+                  <l>An Liceat optare inſuper?</l>
+                  <l>
+                     <hi>Ferraram</hi> jungas <hi>Mutinae, Rhegioque</hi> celebrem,</l>
+                  <l>(Imperii quam Sacra fames diſ-junxit iniqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>)</l>
+                  <l>Ducatus rapti quis promptior Arbiter adſit;</l>
+                  <l>Quàm qui <hi>Ferrariam Prolem</hi> jam duxit Herôus</l>
+                  <l>(<hi>Eſtenſem natam</hi> dico) Succeſſio cujus</l>
+                  <l>Stemmatis eximii, jam mille cucurrerat annos</l>
+                  <l>Ducentoſque ſuper,<note n="*" place="margin">
+                        <hi>Pigna</hi> quae Scripſit.</note> 
+                     <hi>Pignenſia</hi> chronica firmant.</l>
+               </q>
+               <p>Thus have I finiſhed This ſmall Piece, Treating of the Won<g ref="char:EOLhyphen"/>derful Diſcovery and Finding of that Sacred Relique, belonging to a Royal <hi>Confeſſor</hi> of that Religion, which our moſt <hi>Serene So<g ref="char:EOLhyphen"/>veraign</hi> has Reſtored, and ſolemnly Profeſſes.</p>
+               <p>When I had Publiſhed my <hi>Day-Fatality, Anno</hi> 1679. one whom I am loath to name, (and whom I Anſwered in a Pamphlet Intituled, <hi>Mercurius Antiducalis Flagella us;</hi> and have alſo mentioned with ſpecial Remark, <hi>Pag.</hi> 157. of my <hi>Introductio ad Latinam Blaſoniam</hi>) expoſed me in his <hi>Popiſh Courant,</hi> as a <hi>Red-Letter-Man;</hi> and Abus'd me moſt horribly in his <hi>Touch of the Times:</hi> What will he think of me now? I only gently tell him, and all the World:
+<q>
+                     <l>— In tali Relligione</l>
+                     <l>Quali plura nitent moralia, cur ego paucis</l>
+                     <l>Offendar dubiis? tolerarier ergo meretur</l>
+                     <l>Nec minùs à noſtro jam Rege foverier almo</l>
+                     <l>(Sic reor &amp; raturus ero Stabilitus in aevum)</l>
+                     <l>Diligo Romanae moralia Religionis.</l>
+                  </q>
+               </p>
+               <p>I need not <hi>Engliſh</hi> this to the Author aforeſaid, who began that part of his <hi>Popiſh Courant</hi> (ſo Picquant to me) with a Quota<g ref="char:EOLhyphen"/>tion out of <hi>Horace.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 4. Line <hi>ult.</hi> for <hi>Plenas</hi> read <hi>Plenus.</hi> p. 11. l. 22. for <hi>Europian</hi> r. <hi>European.</hi> p. 13. l. 23. for <hi>Cords</hi> r. <hi>Corps.</hi> p. 19. l. 19. r. <hi>Excommunicata.</hi> p. 23. l. 2. for <hi>Edovardus</hi> r. <hi>Edwardus.</hi> Ibid. l. 15. for <hi>Rivalleneſs</hi> r. <hi>Rivallenſis.</hi> p. 24. l. 26. for <hi>Edovarde</hi> r. <hi>Edovardi.</hi> p. 31. l. 27. for <hi>Hand is</hi> r. <hi>Handys.</hi> p. 32. l. 5. for <hi>accidently</hi> r. <hi>accidentally.</hi>
+            </p>
+            <pb facs="tcp:153960:23" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
